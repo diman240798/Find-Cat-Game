@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="achivki_names">
+        <item>Beginner</item>
+        <item>Ich habe erst begonnen!</item>
+        <item>Erfahrener</item>
+        <item>Das ist keine Grenze</item>
+        <item>Falkenauge</item>
+        <item>Eine starke Sehkraft</item>
+        <item>So HARDCORE!</item>
+        <item>Es kann nicht so sein</item>
+        <item>Nicht aufzuhalten</item>
+        <item>Die schnellste Hand</item>
+        <item>Das ist nicht so leicht</item>
+        <item>Wäre das alles?</item>
+    </string-array>
+    <string-array name="achivki_opisanie">
+        <item>Finden Sie 5 Kater der Reihe nach ohne Vorsagen</item>
+        <item>Finden Sie 15 Kater der Reihe nach ohne Vorsagen</item>
+        <item>Finden Sie 30 Kater der Reihe nach ohne Vorsagen</item>
+        <item>Finden Sie 50 Kater der Reihe nach ohne Vorsagen</item>
+        <item>Finden Sie 100 Kater der Reihe nach ohne Vorsagen</item>
+        <item>Finden Sie 200 Kater der Reihe nach ohne Vorsagen</item>
+        <item>Finden Sie 300 Kater der Reihe nach ohne Vorsagen</item>
+        <item>Finden Sie 400 Kater der Reihe nach ohne Vorsagen</item>
+        <item>Finden Sie 500 Kater der Reihe nach ohne Vorsagen</item>
+        <item>Finden Sie in 2 Sekunden oder schneller</item>
+        <item>Finden in 3 Minuten oder langsamer</item>
+        <item>Machen das Spiel bis zum Ende durch</item>
+    </string-array>
+    <string-array name="podskazki">
+        <item>Verunreinigen Sie Busche nicht, Kater mogen sie</item>
+        <item>Kater mogen Dreiecke</item>
+        <item>Einige Kater denken, dass sie Chamaleons sind</item>
+        <item>Nicht auf der brucke</item>
+        <item>Sieh nicht rechts</item>
+        <item>Sieht mit einer Auge vom Sieb</item>
+        <item>Der Kater hat es, was alle Torte wollen</item>
+        <item>Katerchen-Pfortner</item>
+        <item>In der Finsternis der Nacht, ins Licht des Tages beachte ich dich!</item>
+        <item>Ich glaube, der rechte Teil des Fotos ist nicht wichtig</item>
+        <item>Es scheint, irgenwer halt sich fur ein Vogel</item>
+        <item>Unter dem Luftkuhler</item>
+        <item>Sa in der Mitte der Zweige</item>
+        <item>Ich glaube, Beschattung ist von rechts</item>
+        <item>Auch im Busch fand einen geeigneten Sitz</item>
+        <item>Dieser Leuchter!</item>
+        <item>Hat sich so versteckt, dass man nur ein Ohr und eine Auge sehen kann!</item>
+        <item>Welcher Schwanz ist dort? Und Pfoten auch!</item>
+        <item>Kann auf jemandes Kopf fallen!</item>
+        <item>Sitzt im Schatten eines tropischen Baumes :)</item>
+        <item>Eine fleckige Katze ist im Hinterhalt!</item>
+        <item>Kater mogen in der Sonne liegen :)</item>
+        <item>Die Blumen genießen</item>
+        <item>Diese Treppe hat eine interessante Bordure!</item>
+        <item>Dieses Katerchen mag im Schatten liegen!</item>
+        <item>Das Hotel liegt an der Spitze des Brunnens</item>
+        <item>Vorbereiten, um Gläser zu brechen</item>
+        <item>Auf einem der \"Grate\"</item>
+        <item>Zusammengefuhrt mit dem Baumstamm</item>
+        <item>Ein weiterer Sweep</item>
+        <item>In der Nähe des Schnees</item>
+        <item>Von Klette bedeckt</item>
+        <item>Neben der Laterne</item>
+        <item>Auf dem Kamm einer Welle</item>
+        <item>Ich sitze hoch und sehe weit!</item>
+        <item>Wellen in den Augen</item>
+        <item>Kater-Alpinist!</item>
+        <item>Hockte am Straßenrand</item>
+        <item>Es sind doch Betonsteine!</item>
+        <item>Wach die Treppe</item>
+        <item>der Kater, der am dach wohnt.</item>
+        <item>Der Kater halt sich fur ein wutendes Vogel.</item>
+        <item>Wahrum mogen alle Kater Baume?</item>
+        <item>Schutzt die Horner</item>
+        <item>Ich glaube, man muss unter Kletten sehen</item>
+        <item>Der Kater druckt sich an Hauser</item>
+        <item>Pruft Richtigkeit des Parkens!</item>
+        <item>Setz dich, alle Sitze sind frei!</item>
+        <item>Orange Schnauze sieht vom orangen Ecke!</item>
+        <item>Am hochen beobachteten Posten!</item>
+        <item>Studiert geheimnisvolle Runde an Feldern :)</item>
+        <item>Versteck hinter einem bizarren trolley</item>
+        <item>Katerchen pruft es, damit niemand verletzt!</item>
+        <item>Liegt gut, die Sonne stort nicht!</item>
+        <item>Katerchen furchtet sich sehr vor Fahrten!</item>
+        <item>Eine gro?e Treppe gibt es, man kann nicht sofort steigen und muss sich erholen…</item>
+        <item>Wache halten!</item>
+        <item>Und auf welche Weise kann man hinabklettern?</item>
+        <item>Der Kater hat ein schones Haus!</item>
+        <item>Ich glaube, man muss sich aufs Zentrum konzertrieren :)</item>
+        <item>Der Kater benimmt sich unanstandig im Sandkasten!</item>
+        <item>Und wie kann er dahin hereinkriechen?</item>
+        <item>Wenn es ein Grundstuck ohne Gras war, konnte man den Kater uberhaupt nicht sehen!</item>
+        <item>Woyu schaust du? Nimm ab!</item>
+        <item>Sie interessiert der Oberteil des Bildes</item>
+        <item>Wie eine Nagel, nur ein Kater</item>
+        <item>Alle mogen Blumen! Kater sind keine Ausnahmen!</item>
+        <item>Gekühlt auf den Felsen</item>
+        <item>Wunderbar, Blatter sind seiner Farbe ahneln…</item>
+        <item>Ein seltsamer Logo…</item>
+        <item>Schutzt Fahrzeug</item>
+        <item>Was fur eines Klumpchen?</item>
+        <item>Hat sich vor Regen versteckt.</item>
+        <item>Versteckt in den Schatten weg</item>
+        <item>Wahrum kann man ein Nickerchen im Schatten machen?</item>
+        <item>Versteckt vor der Hitze im Schatten</item>
+        <item>Hat sich mit Schatten vereinigt.</item>
+        <item>Beeindruckend! Das ist Klette!</item>
+        <item>Dreckige Pfoten</item>
+        <item>Das Gras ist viel besser als fallende Blatter.</item>
+        <item>Womit handelst du!?</item>
+        <item>Spielt im Gras.</item>
+        <item>Vielleicht ist es der kater des Weihnachtsmannes?</item>
+        <item>Gelander sind interessant gemacht...</item>
+        <item>Unter dem Baum, aber nicht unter dem Boden.</item>
+        <item>Versteckt im Schatten der Vegetation</item>
+        <item>Ein bi?chen weiter, als das Wichtigste.</item>
+        <item>Baume in Topfen gefallen den Katern!</item>
+        <item>Die Bordure ist zu hoch</item>
+        <item>Erforscht Holzstrukturen</item>
+        <item>Schnee ist kalt, wirklich?</item>
+        <item>Man wird doch nicht am Bodem liegen!</item>
+        <item>Als ob hat er in der Textur steckengeblieben :)</item>
+        <item>Katerchen mogen Busche :)</item>
+        <item>Wo kann man sich verstecken au?er Gras?</item>
+        <item>Versteckt sich vor dem Tatort</item>
+        <item>Hinter dem Rucken versteckt!</item>
+        <item>Klettere gerne auf Bäume</item>
+        <item>Bei der Ausfahrt</item>
+        <item>Vielleicht hat Sofa gemuhtliche Armlehnen :)</item>
+        <item>Reibt an der Wand</item>
+        <item>Weiches Mobel gefallt den Katern :)</item>
+        <item>Baut eine Asthütte</item>
+        <item>Der Kater bewacht ihre Sachen, wenn sie schwimmen :)</item>
+        <item>Versteckt hinter einem Haufen von Zweigen</item>
+        <item>Setzen Sie sich hoch, schauen Sie weit weg</item>
+        <item>In der Gesellschaft von schonen Damen</item>
+        <item>Schutzt Gie?kannen :)</item>
+        <item>Der Kater bewacht Materialien</item>
+        <item>In der Nahe der Sonne und gleichzeitig weg von ihr...</item>
+        <item>Wie iene Tasche, nur ein Kater :)</item>
+        <item>Von oben herab kann man besser sehen!</item>
+        <item>Neben der Stelle fur Bewundern! :)</item>
+        <item>Interessante Korbe...</item>
+        <item>Fast ein Foto :)</item>
+        <item>Spiegel sind ein Magnet fur Kater!</item>
+        <item>Innen</item>
+        <item>Zaune schutzen vor allen, aber nicht vor Katern!</item>
+        <item>Ein gro?er Schuh ist ein Traum jedes Katers!</item>
+        <item>Diese Fu?wege sind fur Spazierengange.</item>
+        <item>Es ist gut, wenn man eine Deckung uber den Kopf hat.</item>
+        <item>Wozu ist es dort zu gehen, wo Leute sitzen?</item>
+        <item>So interessante rote Busche :)</item>
+        <item>Versteckt hinter blumen</item>
+        <item>Ist bereit zu fahren. Aber womit?</item>
+        <item>Wozu neben dem Baum liegen Steine?</item>
+        <item>Eine Falle bei Weg.</item>
+        <item>Ein sehre interessantes Beet.</item>
+        <item>Passt aufs Fahrrad auf.</item>
+        <item>Der Kater spielt mit Blattern.</item>
+        <item>Hid hoch</item>
+        <item>Sand Katze</item>
+        <item>Entdecken Sie ungewohnliche Felsblock :)</item>
+        <item>Versteckte sich im Schatten der Garten</item>
+        <item>Wie ein Lowenzahn.</item>
+        <item>Diese rostige Sache wird bald eingesturzt.</item>
+        <item>Vermischte wie Ninja.</item>
+        <item>Wahrscheinlich spricht man mit einem Mann</item>
+        <item>Der Kater-Meloman :)</item>
+        <item>Der Kater ist gefroren.</item>
+        <item>Weiter von Wasser.</item>
+        <item>Die Lieblingsstelle des Katers ;)</item>
+        <item>Bonsai.</item>
+        <item>Hat darauf geklettert, wohin Kater nicht durfen.</item>
+        <item>Sieht \"um die Ecke\"</item>
+        <item>Herbst ist beste Zeit fur Tarnung.</item>
+        <item>Umgeben von Porzellan :)</item>
+        <item>In der Sonne ist es hei?. im Schatten ist es gut.</item>
+        <item>Es ist gut uber Cafe zu wohnen.</item>
+        <item>Am Horizont.</item>
+        <item>Die Katze ist nicht zu verkaufen!</item>
+        <item>Der Kater zeicnhet Feuerlernen.</item>
+        <item>Der Kater-Gesellschafter.</item>
+        <item>Singt Serenade.</item>
+        <item>Schlaft am ersten Stock.</item>
+        <item>Halt sich fur ein Veilchen.</item>
+        <item>Fur einen ist es ein Wagen, fur anderen - eine Kutsche.</item>
+        <item>Geh runter vom Tisch!</item>
+        <item>Hinter der Umzaunung.</item>
+        <item>Versteckt unter dem Lauf</item>
+        <item>Halbdunkel ist der beste Freund jedes Jagers.</item>
+        <item>Gehen am Abhang spazieren.</item>
+        <item>Holzschnitzerei ist sehr toll.</item>
+        <item>Wächter der Veranda</item>
+        <item>Der Rote am Roten.</item>
+        <item>Verstack sich im Halbdunkel vor unnotigen Augen.</item>
+        <item>Der Kater macht einen Rundgang.</item>
+        <item>Jenseits der Barrikade.</item>
+        <item>An der Grenze.</item>
+        <item>Ein furchtloser Kater am Gasrohr.</item>
+        <item>Ein Hinterhalt im Laub.</item>
+        <item>Baume interessieren Kater mehr als Architektur!</item>
+        <item>Im Epizentrum von Chaos.</item>
+        <item>Was trinken Sie doch?</item>
+        <item>Voran! Zur Batterie!</item>
+        <item>Folie an der Wand? Wozu?</item>
+        <item>Fast kam vom Wege ab.</item>
+        <item>Ich meine, man muss im Schatten suchen</item>
+        <item>Wachter von Zement :)</item>
+        <item>Topfe in der Mitte der Stra?e gefallen den Katern ;)</item>
+        <item>Bereitet vor erst noch hoher zu klettern!</item>
+        <item>Damit es dem Fahrer nicht langweilig war ;)</item>
+        <item>Der Kater hat ein eigenes Haus.</item>
+        <item>Alle wissen, dass es den Katern gefallt auf dem Scho? zu sitzen.</item>
+        <item>Eine Insel von Erde im Betondschungel :)</item>
+        <item>Lag sich an Grass ;)</item>
+        <item>Tritt an die Stelle der Blume</item>
+        <item>Offnen Sie die Tur!</item>
+        <item>Um frische Luft zu schopfen ist es unverbindlich das Haus vollig verlassen!</item>
+        <item>Dies ist ein privater Bereich!</item>
+        <item>Schnell überquert die Fahrbahn</item>
+        <item>Myschkin-Kammer</item>
+        <item>Gibt es am Balkon keine Tur?</item>
+        <item>Um die Ecke spahen</item>
+        <item>Schreit von dem Haus.</item>
+        <item>Inspektion der Ware</item>
+        <item>Kehren vor Spazierengang zuruck</item>
+        <item>Legen Sie in der Nahe der Tragstruktur</item>
+        <item>Flo? mit Grass wie ein Ninja zusammen :)</item>
+        <item>Pruft die Qualitat der Unterstutzung</item>
+        <item>Wie Sterne des Tannenbaums :)</item>
+        <item>Er ist hier, neben dem Haus! Ein bi?chen links! Oh, rechts! :)</item>
+        <item>Dieser Kater interessiert sich fut Parkour!</item>
+        <item>Hell an hell, rot an rot!</item>
+        <item>Beabsichtigt, den Kleiderbugel zu umsturzen!</item>
+        <item>Vielleicht ist der Kater unter der Verschuttung.</item>
+        <item>Halt sich fur ein Vogel aus Angry Birds :)</item>
+        <item>Legen Sie am Eingang nach unten</item>
+        <item>Statt der Blume.</item>
+        <item>Beobachtet sein Territorium von oben.</item>
+        <item>Zwischen den Lamellen</item>
+        <item>Sa in den Tropen nach unten :)</item>
+        <item>Ist hingesetzt.</item>
+        <item>Kater ehren Teppiche!</item>
+        <item>Kater mogen Grun!</item>
+        <item>Wie konnen so leicht klettern?</item>
+        <item>Einmal hoch hier im ersten Stock</item>
+        <item>Fast erreichte das Beet.</item>
+        <item>Die Sonne erreichte fast den Kater</item>
+        <item>Unter den Steinen ist ein flauschiger Monolith :)</item>
+        <item>Hoffe, er spielt einfach im Sand.</item>
+        <item>Wartet auf Kellner.</item>
+        <item>Machen Sie ihre Aufmerksamkeit auf den Zaun!</item>
+        <item>In der Mitte des Stegs :)</item>
+        <item>Nicht auf dem Boden ist der gleiche Weg</item>
+        <item>In solcher Kalte will man zu Hause bleiben.</item>
+        <item>Unter dem Deckel.</item>
+        <item>Hoher als Topfe.</item>
+        <item>Sa auf der grunen Insel nach unten</item>
+        <item>Oh, das ist die Toilette :)</item>
+        <item>Man kann wegen Zweige fast nicht sehen!</item>
+        <item>Am Fenster.</item>
+        <item>Wahrum in Bar sind zu hohe Stuhle?</item>
+        <item>Am Rande ...</item>
+        <item>Hat hoch geklettert.</item>
+        <item>Das Katerszimmer sit am dritten Stock.</item>
+        <item>Man lasst nach innen nicht! Sovieso fahre ich!</item>
+        <item>Kater mogen Busche?</item>
+        <item>Zerstore die Katze nicht!</item>
+        <item>Versteckt sich in Blumen.</item>
+        <item>Macht seine schwarzen Sachen unter dem Baum.</item>
+        <item>Auf der zweiten Stufe</item>
+        <item>Blumen ziehen die Aufmerksamkeit der Kater auf sich!</item>
+        <item>Hoher als Budda!</item>
+        <item>Ist bereit einen Weg anterten.</item>
+        <item>Am mittleren Plan.</item>
+        <item>Es ist gut, dass es eine Brucke gibt. Im anderen Fall musste man schwimmen...</item>
+        <item>Bewartet Gaste.</item>
+        <item>Ist es einen Schmuck?</item>
+        <item>So viel Schnee am Dach!</item>
+        <item>Wohin kommt ein Weihnachtskater unter au?er zu Tannenbaum?</item>
+        <item>Das ist keine Post Ru?lands!</item>
+        <item>Dieses Tannenbaum langweilt mich, ich gehe weg...</item>
+        <item>Vielleicht gibt es unter dem Tannenbaum Geschenke?</item>
+        <item>Ein glitschiges Dach! Man kann fallen!</item>
+        <item>Jemand bekommt ein flaumiges Geschenk!</item>
+        <item>Wie ein Eichhornchen, nur ein Kater.</item>
+        <item>Hinter dem Glas</item>
+        <item>Eine schone Kerze, nicht wahr?</item>
+        <item>Pinguine, Baren und Schneehaufen. Was noch braucht man fur Gluck?</item>
+        <item>Eine Insel von Grun in der Zeit der Froste.</item>
+        <item>Katzen sind weit von der Architektur entfernt</item>
+        <item>Versteckt Geschenke!</item>
+        <item>Dort ist es hei?, besser ist im Schatten.</item>
+        <item>Wahrscheinlich will den Anzug stibitzen :3</item>
+        <item>Welche Kugeln! Ich werde mich auch dafur interessieren!</item>
+        <item>Setzte mich auf die Bank nach unten</item>
+        <item>Dieser Zaun ist den Kegeln ahnlich.</item>
+        <item>Ein goldener Kopf! Beeindruckend!?</item>
+        <item>Bewacht den Weihnachtsman, beobachtet Rohre.</item>
+        <item>In der Mitte des Schneereich!</item>
+        <item>Der einzige Schmuck dieser Tanne ist der Kater!</item>
+        <item>Hung Kleider! Es gibt nirgendwo zu gehen!</item>
+        <item>In winter ist eine Fontane ungefahrlich!</item>
+        <item>Durch einen Bogen ins Haus.</item>
+        <item>Das Fest hat man nicht begonnen und dem Kater ist es gar nichts zu tun!</item>
+        <item>Lasst seinen Schwanz gefrieren und bewundert die Tanne!</item>
+        <item>Und wir traumen von Gras in der Nahe des Hauses...</item>
+        <item>Vielleicht versteckt Geschenke :)</item>
+        <item>Die Tanne ist im Vordergrund und der Kater...</item>
+        <item>Am Eingang</item>
+        <item>Uber der Stelle, wo man Socken hangen :)</item>
+        <item>Der Weihnachtskater bewacht ihre Geschenke :)</item>
+        <item>Alle sehen an die Tanne, und niemand merkt das einsames Baum daneben...</item>
+        <item>Das Hotel liegt auf dem Balkon</item>
+        <item>Von oben bespitzelt dem Opa :)</item>
+        <item>Die Kamera nimmt keinen Fokus auf den Kater :(</item>
+        <item>Er setzte sich neben der \"Szene\"</item>
+        <item>Rascheln!</item>
+        <item>Fur Katzen gibt es keine Barrieren</item>
+        <item>Schlendern Sie durch die Topfe</item>
+        <item>housecat</item>
+        <item>Pressen-Protokolle</item>
+        <item>Eine seltsame Figur des Hirschs ;) Kein Wunder dass sie alle interessiert!</item>
+        <item>Basket - fast eine Box!</item>
+        <item>Vielleicht lasst man etwas herunter? Deswegen kann man bewachen.</item>
+        <item>Vor einem Tisch</item>
+        <item>Grutze interessiert nicht. Gehen wir weg!:)</item>
+        <item>Im Wald versteckt</item>
+        <item>Flo? mit Grun zusammen.</item>
+        <item>Spahen zwischen Lamellen</item>
+        <item>Wahrscheinlich verstack sich im Beet und merkte es nicht wie er schwam.</item>
+        <item>An der Ecke, aber nicht am Asphalt!</item>
+        <item>Konnen Kater Glocke ruhren?</item>
+        <item>Ist noch nicht in der Sonne, aber schon nicht im Schatten.</item>
+        <item>Drau?en, aber nicht zu Hause.</item>
+        <item>Hoch, aber nicht so viel, wie es konnte</item>
+        <item>Beim Lenkrad.</item>
+        <item>Ein Stein ist eine gute Deckung. Man kann nicht durchschie?en :)</item>
+        <item>Es ist gefahrlich den Kater zum Laptop lassen!</item>
+        <item>Stieg die Treppe hinauf zu deutlich</item>
+        <item>In seinen Platz konnte sehr wohl eine Statue sein</item>
+        <item>Vielleicht sind die Vogel fangt</item>
+        <item>Wo die Leute sich nicht storen</item>
+        <item>Versteckte sich im \"Dschungel\"</item>
+        <item>Baby-Kater.</item>
+        <item>Face-kontrolle.</item>
+        <item>Nicht neben dem Auto. Nahert sich :)</item>
+        <item>Am Fu?boden.</item>
+        <item>Ist mit weichen Sachen umgegeben.</item>
+        <item>Man darf nicht so gehen!</item>
+        <item>Ein Pfahlchen.</item>
+        <item>Ein Kunstwerk.</item>
+        <item>Umgeben von Licht.</item>
+        <item>Wer mag nicht an den Balkon gehen?</item>
+        <item>Der Kater-Bedienste.</item>
+        <item>Ist unter Geschenken.</item>
+        <item>Der Tanzer im roten versteckte den Kater!!!</item>
+        <item>Fluffy Surfer</item>
+        <item>Bewacht Eingang ins Haus.</item>
+        <item>Oh Oh! Jeden Augenblick tritt man an!</item>
+        <item>Der Kater ist zwischen den Beinen von Asiaten :)</item>
+        <item>So vermischte sich mit dem Baun, dass men nicht unterscheiden kann :)</item>
+        <item>der rote Kater liegt in der Sonne.</item>
+        <item>Unter einem der Tische, an dem es Salzfa? gibt.</item>
+        <item>Voyage der Eckpunkte</item>
+        <item>Ein rotes geschenk unter den anderen Geschenken.</item>
+        <item>Bewacht einen Krug :)</item>
+        <item>Was Brennholz ist kein Stuhl?..</item>
+        <item>Der kater verstack sich unter dem vegetarichen Paradies.</item>
+        <item>Bereitet auf einen Flug auf einem unbekannten Ball vor :)</item>
+        <item>Unter den Figuren Getarnte</item>
+        <item>Neben Menschen, aber nicht in der Mitte von Ereignissen.</item>
+        <item>Nicht in der Sonne. Es ist doch hei?!</item>
+        <item>Amateur, um hoher zu steigen</item>
+        <item>Wie kann man jene Seite erreichen? О_о</item>
+        <item>Der Kater-Tonmeister!</item>
+        <item>Konnen sich Kater mit Sachen vermischen... Mit Baumen oder Steinen...</item>
+        <item>Leinen los!</item>
+        <item>Zaun, um die Katze zu entsprechen</item>
+        <item>Ein Roter an rot.</item>
+        <item>Er setzte sich in der Garage unten</item>
+        <item>Auburn Dachdecker-</item>
+        <item>Fast Bergsteiger</item>
+        <item>Eine Illusion! Am Boden oder am Ladentisch.</item>
+        <item>Unter den Beinen.</item>
+        <item>Bereitet vor von hinten aufzufliegen und diese Pracht zu zerstoren :(</item>
+        <item>Von Baden beobachtet, damit niemand etwas stibitzen konnte!</item>
+        <item>Am linken Ufer.</item>
+        <item>Es ist gemutlich oben zu sitzen! Man kann etwas stibitzen!</item>
+        <item>Von oben beobachtet, damit man jemandem nicht betrugen konnte.</item>
+        <item>An der Ware liegend erholt sich.</item>
+        <item>Gehen Sie auf den Tisch zu bekommen</item>
+        <item>Ein Fahrrader.</item>
+        <item>Auf der anderen Seite</item>
+        <item>zwischen den Kusten</item>
+        <item>In der Mitte eines schwarzen und wei?en Freundinnen</item>
+        <item>Ein roter vermischte sich mit anderem Roten :)</item>
+        <item>Elefanten sind ungewohnlich.</item>
+        <item>Ein Grenzsoldat.</item>
+        <item>Die Seele ist drau?en, aber Korper - zu Hause.</item>
+        <item>Setzte sich am Trocken.</item>
+        <item>Grun. Kater brauchen Grun :)</item>
+        <item>Man kann Den Kater nicht kaufen :)</item>
+        <item>Das ist interessant, brauchen Kater 4 Schi?</item>
+        <item>Pruft Verpackungen nach.</item>
+        <item>An sochen Dachern kann man nicht laufen.</item>
+        <item>Im Rampenlicht</item>
+        <item>Nur ein Kater kann an solchen interessanten Bau vorbeigehen (nicht am Kachel)</item>
+        <item>Ist Orkan am Regal? Der Kater ist schon dort!</item>
+        <item>Sehen Sie diese Schild? Der Kater ist daneben :)</item>
+        <item>Ungewohnliche Zebra</item>
+        <item>Ganse, Ganse... Ga-ga-ga!</item>
+        <item>Ein schreckender Blick von unter...</item>
+        <item>Sieht vor Gestell.</item>
+        <item>Hat das Haus verlassen</item>
+        <item>Das Raubtier besa? eine vorteilhafte Position :)</item>
+        <item>Gras wachst gerade aus dem Haus...</item>
+        <item>Tauschte Geld, wahlt eine Zeitung :)</item>
+        <item>Klettert hoher</item>
+        <item>Rollen wir hinab?</item>
+        <item>Die Wache.</item>
+        <item>Anscheinend ist es durch das Fenster geklettert</item>
+        <item>Vertrieb den Kater von Stein und setzte sich!</item>
+        <item>Auf einen schmalen Pfad</item>
+        <item>Hinter einem Stein versteckt</item>
+        <item>Es ist warm.</item>
+        <item>Sitzt dort, wo das Madchen.</item>
+        <item>Ein solches Gefuhl, wenn sich die Katze an Beine anschmiegen :3</item>
+        <item>Schuft, markiert den Baum!</item>
+        <item>Was fur ein wei?es Klumpchen? Hausschuhe unter dem Bett oder...</item>
+        <item>Sie wollen nicht, sich zu setzen?</item>
+        <item>Confidently Bewegen auf einer Spur</item>
+        <item>Ein Zeichen lesen :)</item>
+        <item>Katzen angekommen</item>
+        <item>Die Katze, die unter dem Zaun sitzt</item>
+        <item>Er will, um das Buch zu nehmen und in den Schrank</item>
+        <item>Versteckt hinter dem Fu?</item>
+        <item>Stomp zu graben, bis die Erde</item>
+        <item>Traurigkeit in der Nahe der Wand</item>
+        <item>Gartner und seiner Schubkarre</item>
+        <item>Kann nicht uberwinden die Bars :(</item>
+        <item>Schleichen entlang der Wand</item>
+        <item>Es ist dringend notwendig, um aus! Und warum er denn da?</item>
+        <item>Halten Sie ein Auge auf das Gewinnen</item>
+        <item>Bereit, seine Beine zu greifen! Lehnen Sie sich ...</item>
+        <item>Vorbereitung fur den Winter</item>
+        <item>Vorbereiten der Glaubens springen</item>
+        <item>Dunkelheit, der ubrigens ein Freund und Katzen auch</item>
+        <item>Und er hat keine Angst nass, weil zu bekommen</item>
+        <item>Schleicht sich unter einem Busch</item>
+        <item>Unter Bar. Ich hatte nicht erwartet? :)</item>
+        <item>Wahlt, auf dem sich hinlegen</item>
+        <item>Die warme</item>
+        <item>Wir machen einen Spaziergang?</item>
+        <item>Wei? und flauschig</item>
+        <item>Anscheinend auf der Bank</item>
+        <item>Gebaude in gute Pfoten</item>
+        <item>Uber den Berg</item>
+        <item>Es steht unter deinen Fu?en!</item>
+        <item>Zwischen dem Grun, aber nicht auf dem Boden</item>
+        <item>Schornsteinfeger</item>
+        <item>Bei Interesse an der Spitze</item>
+        <item>Diese Katze, uberraschend, klingt nicht hoch :)</item>
+        <item>Auf weichen</item>
+        <item>Shaggy Geschenk</item>
+        <item>Es peeping von hinten der Gastgeberin</item>
+        <item>Lassen Sie die Katze</item>
+        <item>Spion auf dem Balkon</item>
+        <item>Legte sich unter den Tisch</item>
+        <item>Vertuschen, den Vorhang</item>
+        <item>Was ist nicht eine Dekoration?</item>
+        <item>Die Katze, die auf den Dachern zu Fu? mag</item>
+        <item>unten Mitarbeiter</item>
+        <item>Verloren unter den Boxen</item>
+        <item>Climb Feuerholz</item>
+        <item>hinter den Dschungel</item>
+        <item>Erschrockene Rotwild und unter den Brettern versteckt</item>
+        <item>Spahen aus einem Eimer ...</item>
+        <item>Die Dunkelheit der anderen Katzen</item>
+        <item>Er setzte sich mit \"Visier\"</item>
+        <item>Komm schon, ich werde zu halten</item>
+        <item>Legte sich unter einen Baum</item>
+        <item>Schlendern Sie durch die Topfe</item>
+        <item>Katzen angekommen! Auf dem Dach O_o</item>
+        <item>Sehr zu sitzen ... und will noch hoher!</item>
+        <item>Spahen durch das Muster</item>
+        <item>Spahen unter einer gro?en Blume :)</item>
+        <item>Weg durch Schneeverwehungen</item>
+        <item>Ich legte mich auf das Gras, versteckt sich hinter einem Baumstamm. Schwere Katze :)</item>
+        <item>Unter Topfe :)</item>
+        <item>Unter der kleinen Hand :)</item>
+        <item>Uberpruft Dach</item>
+        <item>Spahen um Veranda</item>
+        <item>Brazen durch Zaun schaut</item>
+        <item>Elegantes Restaurant mit einer coolen Namen</item>
+        <item>Luftergitter</item>
+        <item>Es verschmolzen mit dem Baum</item>
+        <item>Auf dem Boden</item>
+        <item>Er setzte sich auf Bluten</item>
+        <item>Die Katze a? zu viel konnte nicht auf den Tisch zu verlassen</item>
+        <item>Erkunden Sie die Ruinen</item>
+        <item>Er setzte sich auf den koniglichen Stuhl :)</item>
+        <item>Soeben erschienen</item>
+        <item>in der Nahe von Rollladen</item>
+        <item>Gegen die Sonne</item>
+        <item>Sa? auf einer kleinen Saule nach unten</item>
+        <item>Union Square</item>
+        <item>Bergauf oder bergab, es ist nicht klar,</item>
+        <item>Die Warme und Komfort :)</item>
+        <item>Versinkt im Schnee in der Nahe von den Buschen!</item>
+        <item>Seine Augen leuchten wie eine Gluhbirne Girlanden</item>
+        <item>Versteckt hinter den hohen Blumen</item>
+        <item>Katzen sind da!</item>
+        <item>Vor der Musik-Center</item>
+        <item>Wow! Was fur ein gro?er Felsblock !</item>
+        <item>An der Spitze Schritt</item>
+        <item>Vor der Sonne!</item>
+        <item>Es spaht um die Ecke</item>
+        <item>Im Inneren des Illuminati Symbol</item>
+        <item>Ich warmte auf dem Stein</item>
+        <item>Schwarze Katze auf schwarzem Baume :)</item>
+        <item>Liegen auf dem Marmor</item>
+        <item>Was macht er dort im Lande</item>
+        <item>Es verschmolzen mit dem Laub</item>
+        <item>Mittelweg</item>
+        <item>Unter Graffiti :)</item>
+        <item>stutzte Spalte</item>
+        <item>Mude prop Spalte</item>
+        <item>Zu viele Spalten :)</item>
+        <item>Neben dem kleiner Teich</item>
+        <item>Tasche pretend</item>
+        <item>Er setzte sich ans Fenster</item>
+        <item>Neben dem Eimer</item>
+        <item>In einem Kohlkopf Versteckt</item>
+        <item>Satelliten cat</item>
+        <item>Posing neben einer Frau :)</item>
+        <item>Das au?ergewohnliche Design des Zahlers</item>
+        <item>Ich steige hoher :)</item>
+        <item>Katze nach unten und etwas zu denken...</item>
+        <item>Bat den Koch zu essen :)</item>
+        <item>Die schone Statue, schon</item>
+        <item>Was ist die Gruppenfoto ohne eine Katze tun kann?</item>
+        <item>Versteckt in den Schatten weg</item>
+        <item>Master of Mull</item>
+        <item>Auf einer Ebene mit einem Topf</item>
+        <item>Entrustet lugt es hinter einem Baum abgeholzt</item>
+        <item>In der Nahe der Wand</item>
+        <item>Es stellt sich schwarze Katze mit einem grunen O_o zusammengefuhrt werden</item>
+        <item>Nicht auf der Stra?e</item>
+        <item>Anmutig auf einem Baum gelegen</item>
+        <item>Im Zentrum des Geschehens</item>
+        <item>Zwischen Reben :)</item>
+        <item>In der Nahe der \"Spalten\" :)</item>
+        <item>Er setzte sich in der Nahe der Wand</item>
+        <item>Erforscht das schwarze Schiff</item>
+        <item>Zinn-Platte</item>
+        <item>Im Schatten des Steins</item>
+        <item>Die Leute gehen durch die Tur ...</item>
+        <item>Setzen Sie sich, seien Sie nicht schuchtern</item>
+        <item>Schutzt Auto</item>
+        <item>Katze Kletterer</item>
+        <item>In der Nahe des \"Stern\"...</item>
+        <item>Im Schatten eines tropischen Riesen</item>
+        <item>Liegen auf einem Protokoll</item>
+        <item>Bypass-Bereich</item>
+        <item>Im Schatten der Beluftung Versteckt</item>
+        <item>Raus! Mein Holz!</item>
+        <item>Brick Mountain King</item>
+        <item>Uberprufen Sie das Dach</item>
+        <item>Stiehlt entlang des Hauses</item>
+        <item>Auf Holz</item>
+        <item>Special, Katze Leiter</item>
+        <item>Graue Katze verschmilzt mit dem Ort</item>
+        <item>Fur gnome</item>
+        <item>Die Hauptsache ist, die nicht das Glas fallen gelassen hatte,</item>
+        <item>Einkaufs fallen gelassen... Oh, diese Katze...</item>
+        <item>Pruft Kupplung</item>
+        <item>In der Nahe der Gastgeberin</item>
+        <item>Kontrollen Fundament</item>
+        <item>Auf der Erde</item>
+        <item>Was ist unter dem Baum da?</item>
+        <item>Ungewohnliche Topf vom Stumpf, ist es nicht?</item>
+        <item>Auf der rechten Seite des Weges</item>
+        <item>Auf der zweiten Etage</item>
+        <item>Schone Skulptur</item>
+        <item>Er versteckt sich hinter einem Topf</item>
+        <item>Lernen Wasserturm</item>
+        <item>Katze in der Mitte der Welt</item>
+        <item>Erwarmt auf den Felsen</item>
+        <item>Wie er dort ankam, niemand wei?</item>
+        <item>Pruft Dachbefestigungen</item>
+        <item>Kapitan Cat</item>
+        <item>Cat-Topf :)</item>
+        <item>Machte einen Schneemann und ist froh</item>
+        <item>Vor besser gesehen</item>
+        <item>Gloomy Besitzer der Scheune</item>
+        <item>Nicht so hoch wie ublich, sondern auch auf dem Boden kommt nicht nach unten</item>
+        <item>Wird nimm mich mit?</item>
+        <item>Katzen lieben Baume zu klettern!</item>
+        <item>Dort, wo die Katzen ist streng verboten</item>
+        <item>Uber Blumen</item>
+        <item>Gerahmte die Sonne zuruck</item>
+        <item>Aus sicherer Entfernung beobachten Doghouse</item>
+        <item>Auf dem koniglichen Bett</item>
+        <item>Dead Ahead</item>
+        <item>Dies ist ein Findling!</item>
+        <item>Auf Schutz von Baustoffen!</item>
+        <item>Er zieht den Prozess aus sicherer Entfernung zu verwalten</item>
+        <item>Achten Sie auf den Bus</item>
+        <item>Schaut aus dem Fenster :)</item>
+        <item>Hilft, ein paar Blatter in der gleichen legen</item>
+        <item>Gefunden \"ungewohnlich\" Box :)</item>
+        <item>Legen Sie sich auf den Sacken</item>
+        <item>Greets an der Schwelle :)</item>
+        <item>Stark und schon! So wie antiken Saulen!</item>
+        <item>Bereit, Gaste zu begru?en</item>
+        <item>Alle Rock!</item>
+        <item>Verborgen unter dem Dach</item>
+        <item>an der Wand haftete</item>
+        <item>Auf der Suche nach dem gewunschten Behalter</item>
+    </string-array>
+</resources>

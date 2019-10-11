@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
+    <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
+    <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
+    <string name="abc_action_mode_done">OK</string>
+    <string name="abc_activity_chooser_view_see_all">Tout afficher</string>
+    <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
+    <string name="abc_capital_off">DÉSACTIVÉ</string>
+    <string name="abc_capital_on">ACTIVÉ</string>
+    <string name="abc_search_hint">Rechercher…</string>
+    <string name="abc_searchview_description_clear">Effacer la requête</string>
+    <string name="abc_searchview_description_query">Requête de recherche</string>
+    <string name="abc_searchview_description_search">Rechercher</string>
+    <string name="abc_searchview_description_submit">Envoyer la requête</string>
+    <string name="abc_searchview_description_voice">Recherche vocale</string>
+    <string name="abc_shareactionprovider_share_with">Partager avec</string>
+    <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
+    <string name="abc_toolbar_collapse_description">Réduire</string>
+    <string name="achiv">Succès</string>
+    <string name="action_info">Information</string>
+    <string name="action_language">La langue</string>
+    <string name="action_main">Commencer</string>
+    <string name="action_reset">Recommencer</string>
+    <string name="action_setting">Reglages</string>
+    <string name="agree">"J'accepte"</string>
+    <string name="app_name">Trouve le chat</string>
+    <string name="buttonOK">Oui</string>
+    <string name="cancel">Annulation</string>
+    <string name="channel_description">Toutes les notifications</string>
+    <string name="channel_name">Trouve le chat</string>
+    <string name="cheat_help">Indice</string>
+    <string name="cheat_message">Les chats sont les maîtres nés du déguisement! Voulez-vous prendre un indice pour 10 points? Vous avez %d</string>
+    <string name="cheat_message_again">"Les chats sont les maîtres nés du déguisement! Voulez-vous regarder à nouveau l'indice?"</string>
+    <string name="common_google_play_services_enable_button">Activer</string>
+    <string name="common_google_play_services_enable_text">"%1$s ne fonctionnera pas tant que vous n'aurez pas activé les services Google Play."</string>
+    <string name="common_google_play_services_enable_title">Activer les services Google Play</string>
+    <string name="common_google_play_services_install_button">Installer</string>
+    <string name="common_google_play_services_install_text">%1$s ne fonctionnera pas sans les services Google Play, qui ne sont pas installés sur votre appareil.</string>
+    <string name="common_google_play_services_install_title">Installer les services Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Disponibilité des services Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Erreur liée aux services Google Play</string>
+    <string name="common_google_play_services_unknown_issue">"L'application %1$s rencontre des problèmes avec les services Google Play. Veuillez réessayer."</string>
+    <string name="common_google_play_services_unsupported_text">%1$s ne fonctionnera pas sans les services Google Play, qui ne sont pas compatibles avec votre appareil.</string>
+    <string name="common_google_play_services_update_button">Mettre à jour</string>
+    <string name="common_google_play_services_update_text">"%1$s ne fonctionnera pas tant que vous n'aurez pas mis à jour les services Google Play."</string>
+    <string name="common_google_play_services_update_title">Mettre à jour les services Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s ne fonctionnera pas sans les services Google Play, qui sont en cours de mise à jour.</string>
+    <string name="common_google_play_services_wear_update_text">La nouvelle version des services Google Play est nécessaire. Elle sera bientôt installée automatiquement.</string>
+    <string name="common_open_on_phone">Ouvrir sur le téléphone</string>
+    <string name="common_signin_button_text">Se connecter</string>
+    <string name="common_signin_button_text_long">Se connecter avec Google</string>
+    <string name="fiandacat2">Autres jeux</string>
+    <string name="fmessage">"Merci d'avoir choisi notre application! En signe de notre gratitude vous payer 100 points pouvant être dépensés pour des conseils. Comme déjà mentionné, notre application ne contiendra pas les achats dans le jeu! Vous ne pouvez obtenir des points dans le jeu équitable . :) Lire la suite dans la section Information."</string>
+    <string name="game1">Trouver Cat 2</string>
+    <string name="game2">Trouver Cat 3</string>
+    <string name="game_link">https://play.google.com/store/apps/details?id=srsdt1.findacat</string>
+    <string name="game_over">Le jeu est terminé!</string>
+    <string name="game_over_text">"Oups, il semble que les chats sont finis.
+Bon travail"</string>
+    <string name="gcm_fallback_notification_channel_label">Divers</string>
+    <string name="gdpr_text">"Ce jeu ne recueille ni n'utilise vos données personnelles, mais nos partenaires (tels que Google ou Yandex) peuvent collecter certaines informations impersonnelles. Pour plus de détails, vous pouvez lire notre politique de confidentialité."</string>
+    <string name="get_points">+10 points.</string>
+    <string name="hashTag">\#trouverchat</string>
+    <string name="info">Information</string>
+    <string name="info_message">"But du jeu - comment pouvez-vous trouver le chat rapidement et le toucher.
+Il est amusant!
+
+Les points de bonus que vous pouvez dépenser sur les conseils gagnés pour chaque chat, trouvé aucun indice."</string>
+    <string name="locked">Atteindre bloqué</string>
+    <string name="lost_points">-10 points.</string>
+    <string name="message_end">"Les chats sont terminés.
+
+Vous devez effectuer %d clics sur l'écran pour trouver tous les masques de masquage.
+
+Vous pouvez réinitialiser la progression en cliquant sur le bouton Réinitialiser et chercher à nouveau les chats!"</string>
+    <string name="not_coins">Vous n`avez pas assez de points.:(</string>
+    <string name="nul_success">Succès! Vous pouvez rechercher des chats à nouveau.</string>
+    <string name="other_message">Offre pour jouer à nos autres jeux :)</string>
+    <string name="permission_message">Autorisez le jeu à accéder à la mémoire de votre appareil! Sans cela, nous ne serons pas en mesure de joindre une carte de réussite!</string>
+    <string name="policy">Confidentialité</string>
+    <string name="regular_notification">"Les chats t'attendent!"</string>
+    <string name="reset_sure">"L'action qu'elle remet à zéro la progression du jeu. Voulez-vous continuer?"</string>
+    <string name="s1">"Enregistrer l'image"</string>
+    <string name="s2">"Autoriser l'annonce à stocker l'image dans la galerie d'images ?"</string>
+    <string name="s3">Accepter</string>
+    <string name="s4">Refuser</string>
+    <string name="s5">"Créer un événement d'agenda"</string>
+    <string name="s6">"Autoriser l'annonce à créer un événement d'agenda ?"</string>
+    <string name="s7">Annonce test</string>
+    <string name="search_menu_title">Rechercher</string>
+    <string name="share">Partager</string>
+    <string name="share_achievement">Partager les réalisations</string>
+    <string name="share_achiv">"J'ai eu une réalisation \"%s\" dans le jeu Find the Cat! Rejoindre maintenant!"</string>
+    <string name="share_game">Partager le jeu</string>
+    <string name="sound_button_off">Le son</string>
+    <string name="sound_button_on">Le son</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
+    <string name="sure">Vous êtes assurés?</string>
+    <string name="timer">Vous avez trouvé le chat dans:</string>
+    <string name="tw_error">Quelque chose sest mal passé :(</string>
+    <string name="tw_post">J`aime chercher les chats le jeu Trouve le chat pour Android! #Trouverlechat https://play.google.com/store/apps/details?id=srsdt1.findacat</string>
+    <string name="unlocked">Une nouvelle réalisation!</string>
+    <string name="vibro_button_off">La vibro</string>
+    <string name="vibro_button_on">La vibro</string>
+</resources>

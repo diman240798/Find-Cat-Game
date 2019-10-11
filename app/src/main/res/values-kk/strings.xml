@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Негізгі бетте қозғалу</string>
+    <string name="abc_action_bar_up_description">Жоғары қозғалу</string>
+    <string name="abc_action_menu_overflow_description">Басқа опциялар</string>
+    <string name="abc_action_mode_done">Дайын</string>
+    <string name="abc_activity_chooser_view_see_all">Барлығын көру</string>
+    <string name="abc_activitychooserview_choose_application">Қолданбаны таңдау</string>
+    <string name="abc_capital_off">ӨШІРУЛІ</string>
+    <string name="abc_capital_on">ҚОСУЛЫ</string>
+    <string name="abc_search_hint">Іздеу…</string>
+    <string name="abc_searchview_description_clear">Сұрақты жою</string>
+    <string name="abc_searchview_description_query">Сұрақты іздеу</string>
+    <string name="abc_searchview_description_search">Іздеу</string>
+    <string name="abc_searchview_description_submit">Сұрақты жіберу</string>
+    <string name="abc_searchview_description_voice">Дауыс арқылы іздеу</string>
+    <string name="abc_shareactionprovider_share_with">Бөлісу</string>
+    <string name="abc_shareactionprovider_share_with_application">%s қолданбасымен бөлісу</string>
+    <string name="abc_toolbar_collapse_description">Тасалау</string>
+    <string name="achiv">Достижения</string>
+    <string name="action_info">Информация</string>
+    <string name="action_language">Язык</string>
+    <string name="action_main">Начать</string>
+    <string name="action_reset">Начать заново</string>
+    <string name="action_setting">Настройки</string>
+    <string name="agree">Понятно</string>
+    <string name="app_name">Найди кота</string>
+    <string name="buttonOK">OK</string>
+    <string name="cancel">Отмена</string>
+    <string name="channel_description">Все уведомления</string>
+    <string name="channel_name">Найди кота</string>
+    <string name="cheat_help">Подсказка</string>
+    <string name="cheat_message">Коты - прирождённые мастера маскировки! Хотите взять подсказку за 10 баллов? У вас их %d!</string>
+    <string name="cheat_message_again">Коты - прирождённые мастера маскировки! Показать подсказку еще раз?</string>
+    <string name="common_google_play_services_enable_button">Қосу</string>
+    <string name="common_google_play_services_enable_text">Google Play қызметтерін қоспасаңыз, %1$s жұмыс істемейді.</string>
+    <string name="common_google_play_services_enable_title">Google Play қызметтерін қосу</string>
+    <string name="common_google_play_services_install_button">Орнату</string>
+    <string name="common_google_play_services_install_text">Google Play қызметтері құрылғыда болмағандықтан, %1$s іске қосылмайды.</string>
+    <string name="common_google_play_services_install_title">Google Play қызметтерін алу</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play қызметтерінің қолжетімділігі</string>
+    <string name="common_google_play_services_notification_ticker">Google Play қызметтерінің қатесі</string>
+    <string name="common_google_play_services_unknown_issue">%1$s қолданбасында Google Play қызметіне байланысты белгісіз қате шықты. Әрекетті қайталаңыз.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s қолданбасы құрылғыңызда қолдау көрсетілмейтін Google Play қызметінсіз жұмыс істемейді.</string>
+    <string name="common_google_play_services_update_button">Жаңарту</string>
+    <string name="common_google_play_services_update_text">Google Play қызметтерін жаңартпасаңыз, %1$s іске қосылмайды.</string>
+    <string name="common_google_play_services_update_title">Google Play қызметтерін жаңарту</string>
+    <string name="common_google_play_services_updating_text">Қазіргі уақытта жаңартылып жатқан Google Play қызметтерінсіз %1$s іске қосылмайды.</string>
+    <string name="common_google_play_services_wear_update_text">Google Play қызметтерінің жаңа нұсқасы қажет. Ол қысқа уақыттан кейін өзі жаңарады.</string>
+    <string name="common_open_on_phone">Телефонда ашу</string>
+    <string name="common_signin_button_text">Кіру</string>
+    <string name="common_signin_button_text_long">Google арқылы кіру</string>
+    <string name="fiandacat2">Другие игры</string>
+    <string name="fmessage">Спасибо, что выбрали наше приложение! В знак нашей благодарности начисляем Вам +100 баллов, которые можно тратить на подсказки. Как уже говорилось, наше приложение не будет содержать внутриигровых покупок! Добыть баллы можно только честной игрой. :) Подробнее в разделе Информация.</string>
+    <string name="game1">Найди кота 2</string>
+    <string name="game2">Найди кота 3</string>
+    <string name="game_link">https://play.google.com/store/apps/details?id=srsdt1.findacat&amp;hl=ru</string>
+    <string name="game_over">Игра завершена!</string>
+    <string name="game_over_text">"Упс, кажется котики закончились.
+Отличная работа!"</string>
+    <string name="gcm_fallback_notification_channel_label">Өзге</string>
+    <string name="gdpr_text">Игра не собирает и не использует Ваши персональные данные, но наши партнеры (такие как Google или Yandex) могут собирать обезличенную информацию. Более подробную информацию Вы можете получить в нашей политике конфиденциальности.</string>
+    <string name="get_points">+10 баллов!</string>
+    <string name="hashTag">\#найдикота</string>
+    <string name="info">Информация</string>
+    <string name="info_message">"Цель игры - как можно быстрее найти кота и дотронуться до него.
+Это весело!
+
+Бонусные баллы, которые можно тратить на подсказки, начисляются за каждого котика, найденного без подсказки."</string>
+    <string name="locked">Достижение ещё не открыто!</string>
+    <string name="lost_points">-10 баллов.</string>
+    <string name="message_end">"Котики закончились.
+
+Вам понадобилось совершить %d нажатий на экран, чтобы найти всех мастеров маскировки.
+
+Вы можете сбросить прогресс нажав кнопку Начать заново и искать котиков заново!"</string>
+    <string name="not_coins">У Вас недостаточно бонусных баллов</string>
+    <string name="nul_success">Успешно! Можете искать котиков заново.</string>
+    <string name="other_message">Предлагаем Вам поиграть в другие части нашей игры!</string>
+    <string name="permission_message">Пожалуйста, разрешите игре обращаться к памяти Вашего устройства! Без этого мы не сможем приложить карточку достижения!</string>
+    <string name="policy">Политика</string>
+    <string name="regular_notification">Давно не виделись! Котики ждут тебя!</string>
+    <string name="reset_sure">Действие обнулит весь игровой прогресс кроме достижений. Хотите продолжить?</string>
+    <string name="s1">Кескінді сақтау</string>
+    <string name="s2">Жарнамаға кескінді сурет галереясында сақтауға рұқсат берілсін бе?</string>
+    <string name="s3">Қабылдау</string>
+    <string name="s4">Қабылдамау</string>
+    <string name="s5">Күнтізбе оқиғасын жасау</string>
+    <string name="s6">Жарнамаға күнтізбе оқиғасын жасауға рұқсат берілсін бе?</string>
+    <string name="s7">Сынақ жарнама</string>
+    <string name="search_menu_title">Іздеу</string>
+    <string name="share">Поделиться</string>
+    <string name="share_achievement">Поделиться достижением</string>
+    <string name="share_achiv">Я получил достижение \"%s\" в игре Найди кота! Присоединяйтесь!</string>
+    <string name="share_game">Поделиться игрой</string>
+    <string name="sound_button_off">Звук</string>
+    <string name="sound_button_on">Звук</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="sure">Вы уверены?</string>
+    <string name="timer">Вы нашли кота за:</string>
+    <string name="tw_error">Что-то пошло не так :(</string>
+    <string name="tw_post">Мне нравится искать котов в игре Найди кота для Android! #НайдиКота https://play.google.com/store/apps/details?id=srsdt1.findacat</string>
+    <string name="unlocked">Получено достижение!</string>
+    <string name="vibro_button_off">Вибрация</string>
+    <string name="vibro_button_on">Вибрация</string>
+</resources>

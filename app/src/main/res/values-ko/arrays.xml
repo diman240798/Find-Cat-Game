@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="achivki_names">
+        <item>초보자</item>
+        <item>방금 시작했습니다!</item>
+        <item>숙련 된</item>
+        <item>이것은 제한이 아닙니다</item>
+        <item>팔콘 아이</item>
+        <item>슈퍼 비전</item>
+        <item>So HARDCORE!</item>
+        <item>이런 일은 일어나지 않습니다</item>
+        <item>멈출 수없는</item>
+        <item>가장 빠른손 와일드 웨스트</item>
+        <item>참새를 세지 않아도됩니다.</item>
+        <item>이게 전부인가?</item>
+    </string-array>
+    <string-array name="achivki_opisanie">
+        <item>프롬프트없이 5 개의 고양이를 연속으로 찾으십시오</item>
+        <item>프롬프트없이 15 개의 고양이를 연속으로 찾으십시오</item>
+        <item>프롬프트없이 30 마리 고양이를 연속으로 찾으십시오</item>
+        <item>프롬프트없이 50 개 고양이를 연속으로 찾으십시오</item>
+        <item>프롬프트없이 100 개 고양이를 연속으로 찾으십시오</item>
+        <item>프롬프트없이 200 개 고양이를 연속으로 찾으십시오</item>
+        <item>프롬프트없이 300 개 고양이를 연속으로 찾으십시오</item>
+        <item>프롬프트없이 400 개 고양이를 연속으로 찾으십시오</item>
+        <item>프롬프트없이 500 개 고양이를 연속으로 찾으십시오</item>
+        <item>2 초 또는 그 이상으로 고양이 찾기</item>
+        <item>3 분 이상 사용 고양이 검색</item>
+        <item>게임을 끝까지 완료하십시오</item>
+    </string-array>
+    <string-array name="podskazki">
+        <item>덤불을 막히지 말고, 물개가 사랑한다</item>
+        <item>고양이는 삼각형을 좋아합니다</item>
+        <item>일부 고양이는 그들이 카멜레온이라고 생각합니다</item>
+        <item>브릿지에 없다</item>
+        <item>오른쪽으로 보지 마라</item>
+        <item>그릴 때문에 한 눈으로 보입니다</item>
+        <item>고양이는 닭에게 필요한 것을 가지고있다</item>
+        <item>고양이 문지기</item>
+        <item>밤의 어둠 속에서, 낮의 빛 속에서 나는 너에게 시선을 돌린다!</item>
+        <item>사진의 오른쪽이주의를 기울이지 않는다고 생각합니다.</item>
+        <item>누군가가 자신을 새라고 상상한다</item>
+        <item>에어컨</item>
+        <item>막힌 곳에 앉아</item>
+        <item>스파이가 오른쪽에 있다고 생각합니다</item>
+        <item>덤불 에서조차도 적당한 자리를 찾았습니다</item>
+        <item>촛대가 있습니다!</item>
+        <item>귀와 눈만 보일 수 있도록 숨겨져 있습니다!</item>
+        <item>그리고 꼬리가 보이는가? 오, 그리고 앞발도!</item>
+        <item>토고와 외모가 누군가의 머리에 떨어질 것입니다!</item>
+        <item>열대 나무의 그늘에서 웅크 리다</item>
+        <item>매복 된 고양이를 발견했습니다!</item>
+        <item>고양이가 햇빛을 즐기기를 좋아합니다 :)</item>
+        <item>꽃을 즐기기</item>
+        <item>이 계단에는 매우 흥미로운 재갈이 있습니다!</item>
+        <item>그리고이 새끼 고양이는 천막에 누워 싶어합니다!</item>
+        <item>분수대 상단에 위치</item>
+        <item>안경 끊기 준비</item>
+        <item>리지 중 하나에서</item>
+        <item>나무 줄기와 합치기</item>
+        <item>다른 굴뚝 청소</item>
+        <item>눈 가까이에서</item>
+        <item>우엉에 의해 덮여</item>
+        <item>조명 옆</item>
+        <item>웨이브의 문장에서</item>
+        <item>나는 높이 앉아서 멀쩡해 보인다!</item>
+        <item>눈의 잔물결</item>
+        <item>Kote는 산악인입니다!</item>
+        <item>도로의 가장자리에 웅크 리고</item>
+        <item>예 거품 블록입니다!</item>
+        <item>경비 계단</item>
+        <item>옥상에 사는 고양이</item>
+        <item>키티는 자신을 악마라고 상상한다</item>
+        <item>왜 모든 고양이는 나무를 너무 좋아합니까?</item>
+        <item>뿔 보호</item>
+        <item>머그잔 아래에서 볼 가치가 있다고 생각합니다</item>
+        <item>집 키티 프레스</item>
+        <item>주차가 올바른지 확인하십시오!</item>
+        <item>자리에 앉으십시오, 모든 좌석은 무료입니다!</item>
+        <item>주황색 모서리 뒤에서 주황색 얼굴이 엿보입니다!</item>
+        <item>높은 관찰 지점에서!</item>
+        <item>수수께끼 같은 미스터리 서클을 배웁니다</item>
+        <item>기괴한 카트 뒤에 숨어 있음</item>
+        <item>거머리는 아무도 깰 수 없는지 확인합니다!</item>
+        <item>좋은 거짓말, 태양은 귀찮다!</item>
+        <item>고양이는 여행을 두려워합니다!</item>
+        <item>계단이 높으면 한 번에 등반 할 수 없습니다. 쉬어야합니다..</item>
+        <item>영토의 수호자!</item>
+        <item>그리고 여기서 나갈 수있는 방법은?</item>
+        <item>고양이는 멋진 집을 가지고 있습니다!</item>
+        <item>중심에 집중하고 세부 사항을 버려야한다고 생각합니다 :)</item>
+        <item>고양이가 모래에서 우연히 행동합니다!</item>
+        <item>그리고 그는 어떻게 거기에 갔습니까?</item>
+        <item>풀이없는이 사이트가 아니라면 새끼 고양이를 전혀 볼 수 없었습니다!</item>
+        <item>당신은 무엇을보고 있습니까? 벗어!</item>
+        <item>그림의 상단 부분에 관심이 있습니다;)</item>
+        <item>바늘처럼 고양이 만 :)</item>
+        <item>모두가 꽃을 좋아합니다! 인감도 예외는 아닙니다!</item>
+        <item>돌 위에 냉각</item>
+        <item>이 나뭇잎들이 채색과 어떻게 흡사한지 놀랍습니다</item>
+        <item>이상한 황금 로고 ..</item>
+        <item>차량 보호</item>
+        <item>이 덩어리는 언덕 기슭에 무엇입니까?</item>
+        <item>비로부터 숨었습니다</item>
+        <item>그림자 숨김</item>
+        <item>텐트에서 낮잠을 자지 않는 이유는 무엇입니까?</item>
+        <item>그림자 속의 열로부터 숨어 있습니다</item>
+        <item>그림자와 병합되었습니다</item>
+        <item>와우! 이것은 우엉입니다!</item>
+        <item>더러운 발</item>
+        <item>낙엽보다 잔디가 좋습니다</item>
+        <item>그리고 여기서 뭐하고 있니?</item>
+        <item>단풍의 스포츠</item>
+        <item>아마도 산타의 고양이일까요?</item>
+        <item>위험은 매우 흥미로운 스타일로 만들어집니다 ..</item>
+        <item>나무 아래에 있지만 땅에는 없습니다</item>
+        <item>식물의 그림자 속에 숨어 있습니다</item>
+        <item>주요한 것보다 조금 더</item>
+        <item>고양이는 고양이를 끌어 당깁니다</item>
+        <item>테두리가 너무 큽니다</item>
+        <item>나무 구조 탐구</item>
+        <item>글쎄, 눈이 차갑습니다</item>
+        <item>땅에 누우지 마십시오!</item>
+        <item>텍스처가 멈춰있는 것처럼 :)</item>
+        <item>관목과 같은 물개 :)</item>
+        <item>풀밭에 없으면 숨길 곳은 어디입니까?</item>
+        <item>범죄 현장에서 숨어있다</item>
+        <item>등에 등을 감추었습니다!</item>
+        <item>나무를 오르는 것</item>
+        <item>출구에서</item>
+        <item>아마 소파에는 편안한 팔걸이가 ... 글쎄, 이해했다 :)</item>
+        <item>벽면 마찰</item>
+        <item>고양이는 부드러운 가구에 끌린다</item>
+        <item>가지의 오두막을 짓는다</item>
+        <item>목욕하는 동안 고양이가 물건을 지키고 있습니다 :)</item>
+        <item>여러 개의 브랜치 뒤에 숨어 있음</item>
+        <item>나는 높이 앉아서 멀리 본다</item>
+        <item>아름다운 숙녀의 회사에서</item>
+        <item>급수 깡통을 보호합니다 :)</item>
+        <item>자료 보호에 관한 조언</item>
+        <item>태양과 가까운 시간에..</item>
+        <item>핸드백처럼 고양이 만 :)</item>
+        <item>잘 개괄 해보세요!</item>
+        <item>나르시즘의 장소 근처! :)</item>
+        <item>흥미로운 바구니..</item>
+        <item>거의 사진 :)</item>
+        <item>거울 - 고양이 자석!</item>
+        <item>내부</item>
+        <item>울타리는 다른 사람을 보호하지만 고양이는 아닙니다!</item>
+        <item>큰 신발은 어떤 고양이 든 꿈입니다!</item>
+        <item>이 트랙은 산책을 위해 설계되었습니다</item>
+        <item>머릿속에는 피난처가있는 것이 좋습니다</item>
+        <item>사람들이 앉아있는 곳으로가는 이유는 무엇입니까?</item>
+        <item>재미있는 붉은 나무는 무엇입니까 :)</item>
+        <item>색상을 찾습니다</item>
+        <item>타러 가자. 그러나 무엇에?</item>
+        <item>나무 근처에 돌이있는 이유는 무엇입니까?</item>
+        <item>길에서 매복하십시오</item>
+        <item>매우 특이한 화단</item>
+        <item>자전거를 보살펴주세요</item>
+        <item>고양이가 나뭇잎을 가지고 노는 중입니다</item>
+        <item>상향 상승</item>
+        <item>모래 고양이</item>
+        <item>특이한 돌맹이를 탐구합니다</item>
+        <item>정원의 그림자 속에 숨어있다</item>
+        <item>민들레처럼</item>
+        <item>이 녹슬지는 곧 붕괴 될 것입니다</item>
+        <item>닌자처럼 병합되었습니다</item>
+        <item>아마 남자와 이야기하고있다</item>
+        <item>코테 - 음악 애호가 :</item>
+        <item>리프가 고정되었습니다</item>
+        <item>물에서 떨어집니다</item>
+        <item>고양이가 가장 좋아하는 장소;)</item>
+        <item>분재</item>
+        <item>고양이가 할 수없는 곳에서 크롤링했습니다</item>
+        <item>모퉁이를 돌면서 보임</item>
+        <item>가을은 숨길 수있는 가장 좋은시기입니다</item>
+        <item>도자기로 둘러싸인 :)</item>
+        <item>해가 뜨겁지 만 그늘이 좋다</item>
+        <item>카페 위에 살면 좋습니다</item>
+        <item>지평선에 있습니다</item>
+        <item>고양이는 판매용이 아닙니다!</item>
+        <item>코 테는 소방 훈련을 실시합니다</item>
+        <item>회사 고양이</item>
+        <item>세레나데를 부릅니다</item>
+        <item>층에 잠든다</item>
+        <item>바이올렛으로 자신을 깨달았습니다</item>
+        <item>장바구니에, 그리고 누가 코치에게</item>
+        <item>글쎄, 테이블을 털어 내라!</item>
+        <item>울타리 뒤</item>
+        <item>배럴 아래에 숨어있다</item>
+        <item>어둠은 사냥꾼의 가장 친한 친구입니다</item>
+        <item>슬로프에서 걷기</item>
+        <item>목각화는 멋지다</item>
+        <item>베란다의 수호자</item>
+        <item>적색의 빨간 머리</item>
+        <item>불필요한 눈으로 황혼에 숨어 있습니다</item>
+        <item>고양이가 크롤링합니다</item>
+        <item>바리 케이드 너머</item>
+        <item>국경에 있습니다</item>
+        <item>가스 파이프에있는 두려운 고양이</item>
+        <item>단풍에 매복</item>
+        <item>나무는 건축보다 고양이에 더 관심이 있습니다!</item>
+        <item>혼란의 진원지</item>
+        <item>무엇을 마시고 있습니까?</item>
+        <item>앞으로! 배터리로!</item>
+        <item>벽 에다 포일? 왜?</item>
+        <item>거의 잃어버린 트랙</item>
+        <item>고양이가 그림자를 볼 가치가 있다고 생각합니다</item>
+        <item>시멘트 가드 :)</item>
+        <item>거리 고양이의 한가운데있는 냄비;)</item>
+        <item>그냥 올라갈 준비를하십시오!</item>
+        <item>드라이버는 지루하지 않았습니다</item>
+        <item>분명히 고양이는 집을 가지고 있습니다</item>
+        <item>모두들 코타 크는 무릎에 앉아있는 것을 알고있다</item>
+        <item>콘크리트 정글에있는 땅 섬 :)</item>
+        <item>녹색 위에 놓습니다;)</item>
+        <item>꽃꽂이</item>
+        <item>문을여십시오!</item>
+        <item>숨을들이 쉬기 위해 집을 완전히 떠날 필요는 없습니다!</item>
+        <item>개인 영역입니다!</item>
+        <item>차도를 빠르게지나갑니다</item>
+        <item>Mouse Chambers</item>
+        <item>발코니에 문이 없습니까?</item>
+        <item>모퉁이를 돌면서 보임</item>
+        <item>집안의 쾌활한 계단</item>
+        <item>물품 검사</item>
+        <item>걷기에서 돌아 오기</item>
+        <item>바로 지원하기</item>
+        <item>닌자와 잔디를 합친 것 :)</item>
+        <item>서포트의 품질을 체크합니다</item>
+        <item>크리스마스 트리 별처럼 :)</item>
+        <item>여기 집 근처입니다! 왼쪽으로 약간만! 아, 오른쪽! 글쎄, 당신은 이해합니다 :)</item>
+        <item>이 고양이는 분명히 parkour를 좋아합니다!</item>
+        <item>밝고 밝은 빨강, 적색 빨강!</item>
+        <item>행거를 래핑하고자합니다!</item>
+        <item>아마도 잔해 아래에있는 고양이</item>
+        <item>Angry Birds에서 새를 사칭하는 또 다른 시도 :)</item>
+        <item>입구 부근</item>
+        <item>꽃 대신</item>
+        <item>높이에서 신뢰할 수있는 영역보기</item>
+        <item>레이크 간</item>
+        <item>열대 지방에 정착했습니다 :)</item>
+        <item>바를 넣으십시오</item>
+        <item>카펫은 항상 존경의 대상입니다! 고양이에서도!</item>
+        <item>고양이는 너무 많은 녹지가 좋아! 아니면 아는 사람이 누구일까요?</item>
+        <item>그들이 어떻게 그렇게 독창적 인 지 상상할 수 없다</item>
+        <item>어쨌든 높이는 1 층입니다</item>
+        <item>거의 꽃 침대에 도착했습니다</item>
+        <item>해가 거의 코티카에 도착했습니다</item>
+        <item>돌들 사이에서, 푹신한 단일체 :)</item>
+        <item>모래에서 방금 연주 되었기를 바랍니다</item>
+        <item>웨이터를 기다리는 중</item>
+        <item>울타리에주의하십시오</item>
+        <item>능선 중간에 :)</item>
+        <item>정직하게 걷지 않음, 정직하게</item>
+        <item>그런 추위 속에서 집에 앉아 싶다</item>
+        <item>뚜껑 아래</item>
+        <item>위의 냄비</item>
+        <item>녹색 섬에서 웅크 리기</item>
+        <item>오,이 화장실은 다음과 같습니다 :)</item>
+        <item>가지로 인해 거의 볼 수 없습니다!</item>
+        <item>창 근처</item>
+        <item>바의 의자가 그렇게 높은 이유는 무엇입니까?</item>
+        <item>가장자리에서 ..</item>
+        <item>하이 클라이밍, 장난 꾸러기</item>
+        <item>3 층 방 고양이</item>
+        <item>그들은 우리를 들여 보내지 않았습니다 - 그것은 중요하지 않습니다! 나도 갈거야!</item>
+        <item>관목 같은 고양이도 발견 했습니까?</item>
+        <item>고양이를 부숴 뜨리지 마십시오!</item>
+        <item>꽃으로 가면을 쓴다</item>
+        <item>나무 밑에서 어두운 것들을 만듭니다</item>
+        <item>두 번째 계층</item>
+        <item>너무 많은 색상이 고양이를 끌어들일 수는 없습니다!</item>
+        <item>붓다 위</item>
+        <item>길을 갈 준비가되었습니다</item>
+        <item>중간 계획</item>
+        <item>글쎄, 다리가있다. 그리고 나서 나는 여전히 수영을해야 할 것입니다 ..</item>
+        <item>손님 대기 중</item>
+        <item>장식이 아닌 것은 무엇입니까?</item>
+        <item>지붕에 눈이 얼마나 쌓인 지</item>
+        <item>크리스마스 트리가 아닌 새해 고양이는 어디로 갈 수 있습니까?</item>
+        <item>러시아어 포스트가 아닙니다</item>
+        <item>나는이 나무가 아프다. 나는 그것을 남겨 둘 것이다</item>
+        <item>이미 크리스마스 트리 아래에 선물이 있습니까?</item>
+        <item>미끄러운 지붕! 떨어지지 마십시오!</item>
+        <item>누군가가 푹신한 선물을 받게됩니다!</item>
+        <item>다람쥐와 마찬가지로 고양이 만</item>
+        <item>유리 뒤</item>
+        <item>아름다운 초, 맞습니까?</item>
+        <item>펭귄, 곰 및 snowdrifts. 행복을 위해서 무엇이 더 필요합니까?</item>
+        <item>서리 중 녹색 섬</item>
+        <item>고양이는 건축과는 거리가 멀다</item>
+        <item>선물을 숨 깁니다</item>
+        <item>그곳에서 더운 날씨를 보입니다</item>
+        <item>슈트를 훔칠 것이다. 3</item>
+        <item>여기에 볼이 있습니다! 나는 또한 흥미가있을 것이다!</item>
+        <item>해안에 설치</item>
+        <item>이 울타리는 볼링 핀과 같습니다</item>
+        <item>랜턴으로 한 수준에서</item>
+        <item>이것이 골든 머리입니까?</item>
+        <item>스노우 왕국의 한가운데</item>
+        <item>이 크리스마스 트리의 유일한 장식은 스페이드입니다!</item>
+        <item>여기에 Ponaveshali!</item>
+        <item>겨울에는 분수가 위험하지 않습니다!</item>
+        <item>아치를 통해 따뜻한 집으로</item>
+        <item>축하 행사가 아직 시작되지 않았으며 테이블에서 고양이는 할 일이 전혀 없습니다!</item>
+        <item>꼬리를 자극하고 전나무 나무를 존경합니다</item>
+        <item>우리는 가정에서 잔디를 꿈꿉니다..</item>
+        <item>아마도 숨김을 표시합니다 :))</item>
+        <item>크리스마스 트리가 전경이지만 고양이는..</item>
+        <item>입구에서</item>
+        <item>양말이 매달려있는 곳 위 :)</item>
+        <item>선물을 지키고있는 산타 고양이 :)</item>
+        <item>모두들 나무를보고 아무도 근처의 외로운 나무를 보지 않습니다 ..</item>
+        <item>발코니 위에 위치</item>
+        <item>높은 곳에서 그는 할아버지를 간첩합니다. 고양이 잡는다면 어떡하지? :)</item>
+        <item>카메라가 고양이에 초점을 맞추지 않았습니다 :(</item>
+        <item>무대 근처에 앉았습니다</item>
+        <item>Flamboyant!</item>
+        <item>고양이에게 장애물이 없습니다</item>
+        <item>화분을 따라 산책</item>
+        <item>집 고양이</item>
+        <item>로그를 누르십시오</item>
+        <item>사슴에 대한 매우 드문 인물 :) 모든 것에 관심이 있다는 것은 놀라운 일이 아닙니다!</item>
+        <item>바구니는 거의 박스입니다!</item>
+        <item>갑자기 무엇이 떨어질까요? 이를 위해</item>
+        <item>테이블 앞</item>
+        <item>곡물은 관심이 없다. 덤프 :)</item>
+        <item>나무에 숨겨진</item>
+        <item>야생 사냥꾼으로 단풍과 합병했습니다</item>
+        <item>레일 사이를 훑어 본다</item>
+        <item>아마 화단에 숨어서 어떻게 떠 다니는 지 알지 못했습니다</item>
+        <item>구석에 있지만 아스팔트에는 없습니다!</item>
+        <item>고양이는 종을 울리는 방법을 알고 있습니까?</item>
+        <item>해가 뜨지 않고 그림자가없는 곳</item>
+        <item>거리에는 있지만 집에는 없습니다</item>
+        <item>높지만 가능하지는 않음</item>
+        <item>바퀴 뒤</item>
+        <item>돌은 최고의 은신처입니다. 총에 맞지 않습니다 :)</item>
+        <item>랩탑에 고양이를 태우는 것은 위험합니다!</item>
+        <item>계단에서 명시 적으로 올라갔습니다</item>
+        <item>그 자리에 동상이 될 수도 있습니다</item>
+        <item>새들이 잡는 것 같아요</item>
+        <item>사람들이 방해하지 않는 곳</item>
+        <item>밀림에 숨어 있습니다</item>
+        <item>작은 고양이</item>
+        <item>얼굴 제어</item>
+        <item>자동차 근처에 없습니다. 접근하는 것 :</item>
+        <item>바닥에</item>
+        <item>부드러운 물체로 둘러 쌓임</item>
+        <item>거기를 걸을 수 없습니다! 누군가 그것을 얻을 것이다!</item>
+        <item>열</item>
+        <item>최고의 예술 작품</item>
+        <item>밝은 환경에서</item>
+        <item>글쎄, 우리 중에 누가 발코니에서 나가고 싶지 않아?</item>
+        <item>검색 고양이</item>
+        <item>선물 가운데 접기</item>
+        <item>빨간 댄서가 고양이를 겁 먹었습니다!</item>
+        <item>푹신한 서핑</item>
+        <item>집 입구 보호하기</item>
+        <item>오 오! 여기 있습니다!</item>
+        <item>아시아 인들의 다리 사이의 고양이 기동 :)</item>
+        <item>나무와 병합되었으므로 구별 할 수 없습니다 :)</item>
+        <item>Рыжий кот греется на солнышке</item>
+        <item>소금 쉐이커가있는 테이블 아래</item>
+        <item>복셀 정복자</item>
+        <item>선물 가운데 빨간색 선물</item>
+        <item>머그잔을 지킵니다 :)</item>
+        <item>장작이 아닌 의자 란 무엇입니까?</item>
+        <item>채식 천국의 칵테일</item>
+        <item>알려지지 않은 공을 날기 위해 준비 :)</item>
+        <item>도형 중에서 가장 된 것</item>
+        <item>사람들 가까이 있지만 두꺼운 이벤트에는 없습니다</item>
+        <item>태양 아래 있지 않습니다. 뜨거워!</item>
+        <item>높은 아마추어</item>
+        <item>어떻게 든 상대방과 교차 O_o</item>
+        <item>Leakyard는 훌륭한 엔지니어입니다!</item>
+        <item>고양이는 나무와 함께 또는 돌과 함께 개체와 합칠 수 있습니다</item>
+        <item>계선을 포기하라!</item>
+        <item>고양이 울타리</item>
+        <item>빨간 머리 빨강</item>
+        <item>차고에 앉아</item>
+        <item>Red Roofer</item>
+        <item>거의 등산가</item>
+        <item>환상은 똑바르다! 바닥 또는 카운터에서</item>
+        <item>발바닥으로 간다</item>
+        <item>비행을 준비하고이 웅장 함을 깨뜨릴 준비를하십시오 :(</item>
+        <item>아무도 훔친 것을 지켜 보지 마라</item>
+        <item>왼쪽 은행</item>
+        <item>꼭대기에 앉는 것이 편리합니다! 뭔가를 훔칠 수 있습니다!</item>
+        <item>체중을 줄이기 위해 높은 위치를 유지</item>
+        <item>긴장을 풀고 제품에 누워</item>
+        <item>테이블로 이동</item>
+        <item>사이클리스트</item>
+        <item>너머</item>
+        <item>해안 간</item>
+        <item>흑인과 백인 여자 친구 가운데</item>
+        <item>빨강 머리가 빨간색으로 병합되었습니다</item>
+        <item>코끼리는 특이합니다</item>
+        <item>경계 가드 (경계가 아닌 것은 무엇입니까?)</item>
+        <item>거리의 영혼과 집안의 몸</item>
+        <item>마른 곳에 앉는다</item>
+        <item>녹색. 고양이는 녹색이 필요합니다</item>
+        <item>고양이는 판매용이 아닙니다</item>
+        <item>고양이에게 4 개의 스키가 필요합니까?</item>
+        <item>패키지 검사</item>
+        <item>그런 지붕에는 열심히 굴지 않습니다</item>
+        <item>스포트라이트</item>
+        <item>고양이 만이 재미있는 건물을 지나치지 않게 걸을 수 있습니다 (타일에는 없습니다)</item>
+        <item>선반 허리케인에서? 고양이가 이미 있습니다!</item>
+        <item>비문을 보시오. 그래서 고양이는 중력에 눌려 있습니다</item>
+        <item>비정상적인 얼룩말</item>
+        <item>거위, 거위, 하하하!</item>
+        <item>아래에서 두려운 모습. 이제 모든 것을 돌릴 것입니다!</item>
+        <item>걸이 때문에 올려다 본다</item>
+        <item>집을 떠났다</item>
+        <item>프레데터가 유리한 입장을 취했습니다 :)</item>
+        <item>풀밭은 집에서 곧게 자랍니다!?</item>
+        <item>이미 돈을주고, 신문을 선택합니다 :)</item>
+        <item>상향 상승</item>
+        <item>건너 뛰기?</item>
+        <item>시간</item>
+        <item>분명히 그는 창문을 통해 올라 갔다</item>
+        <item>나는 돌에서 고양이를 보냈고 앉아 있었다</item>
+        <item>좁은 트랙에서 멈춤</item>
+        <item>돌 뒤에 숨어 있습니다</item>
+        <item>따뜻하게</item>
+        <item>같은, 여자, 소녀에 앉는다</item>
+        <item>고양이가 다리를 문지르는 느낌입니다</item>
+        <item>나무, 악당!</item>
+        <item>흰 덩어리 란 무엇입니까? 침대 아래의 슬리퍼 또는..</item>
+        <item>앉지 않으시겠습니까?</item>
+        <item>널드 (rourled) 부분을 자신있게 움직입니다</item>
+        <item>기호를 읽습니다</item>
+        <item>도착한 고양이</item>
+        <item>고양이는 포드 (podsaborny)입니다</item>
+        <item>책을 가지고 옷장에 넣기를 원합니다</item>
+        <item>발 뒤에서 숨었습니다</item>
+        <item>소용돌이 치는 땅을 파다</item>
+        <item>벽 근처의 슬픔</item>
+        <item>정원사와 그의 수레</item>
+        <item>격자를 지나갈 수 없습니다 :(</item>
+        <item>벽을 따라 크롤링</item>
+        <item>긴급하게 빠져 나오는 것이 필요합니다! 왜 그가 거기에 갔습니까?</item>
+        <item>상을 주시하십시오</item>
+        <item>발 앞에 붙잡을 준비를하십시오! 그냥 앉아..</item>
+        <item>겨울 준비</item>
+        <item>믿음의 도약 준비</item>
+        <item>어둠, 그런데 친구와 고양이도</item>
+        <item>젖을 두려워하지 않습니다</item>
+        <item>수풀 아래서 마구미</item>
+        <item>곰 아래. 기대하지 않았 니? :)</item>
+        <item>거짓말 선택</item>
+        <item>더위</item>
+        <item>걷기?</item>
+        <item>흰색과 모피</item>
+        <item>벤치에서</item>
+        <item>신뢰할 수있는 발에 건축 자재</item>
+        <item>외환 고양이</item>
+        <item>발 밑에!</item>
+        <item>채소 중, 그러나 지상에 있지는 않다</item>
+        <item>굴뚝 청소</item>
+        <item>위에서 관심 시계 포함</item>
+        <item>놀랍게도이 고양이는 신장이 마음에 들지 않는다</item>
+        <item>부드러운 자리에</item>
+        <item>얽매이지 않는 선물</item>
+        <item>여주인 때문에 룩업</item>
+        <item>고양이 삽입</item>
+        <item>발코니 스파이</item>
+        <item>테이블 아래에 누워</item>
+        <item>커튼으로 덮여 있습니다</item>
+        <item>장식이 아닌 것은 무엇입니까?</item>
+        <item>지붕 위를 걷는 것을 좋아하는 고양이</item>
+        <item>직원 이하</item>
+        <item>상자 중 손실 됨</item>
+        <item>장작 크롤링</item>
+        <item>정글 뒤</item>
+        <item>사슴을 두려워하고 판자 밑에서 숨었습니다</item>
+        <item>양동이가 보이는..</item>
+        <item>고양이 친구의 어둠</item>
+        <item>바이저에 앉았습니다</item>
+        <item>어서,</item>
+        <item>나무 밑에서 자존심을 가라</item>
+        <item>화분을 따라 산책</item>
+        <item>고양이가 도착했습니다! 지붕에</item>
+        <item>높이 앉아서 더 높이 싶어!</item>
+        <item>패턴을 살펴 봅니다</item>
+        <item>큰 꽃 아래 보이는 :)</item>
+        <item>스노 슬라이드를 몰래 움직입니다</item>
+        <item>로그에 덮인 풀밭에 누워 :) 스턴 고양이 :)</item>
+        <item>주전자 :)</item>
+        <item>작은 펜 아래 :)</item>
+        <item>지붕을 확인합니다</item>
+        <item>베란다 근처를 보입니다</item>
+        <item>울타리를 뻔뻔스럽게 들여다 봅니다</item>
+        <item>시원한 이름으로 된 우아한 학교</item>
+        <item>팬이 지키고 있습니다</item>
+        <item>나무와 합치기</item>
+        <item>바닥에</item>
+        <item>나무의 고양이 색</item>
+        <item>테이블을 넘을 수 없었습니다</item>
+        <item>유적을 탐구합니다</item>
+        <item>왕의 의자에 앉아 있습니다 :)</item>
+        <item>나가기 만</item>
+        <item>셔터 근처</item>
+        <item>태양에 기울임</item>
+        <item>작은 칸에 앉았습니다</item>
+        <item>유니온 스퀘어</item>
+        <item>상승 또는 하강, 불분명</item>
+        <item>따뜻함과 편안함 속에서 :)</item>
+        <item>수풀 근처의 눈 속에서 싱크대!</item>
+        <item>화관 조명과 같이 눈이 번쩍입니다</item>
+        <item>하이 컬러 숨김</item>
+        <item>고양이가 도착했습니다!</item>
+        <item>음악 센터 앞</item>
+        <item>와우! 얼마나 큰 돌맹이!</item>
+        <item>최상단 단계</item>
+        <item>태양 위!</item>
+        <item>모퉁이를 돌면서 보임</item>
+        <item>일루미네티 기호 내부</item>
+        <item>돌에 따뜻하게</item>
+        <item>검은 색 자리에 검은 고양이 :)</item>
+        <item>대리석으로 구겨져</item>
+        <item>그가 땅에서 무엇을하고 있는지</item>
+        <item>단풍과 합치기</item>
+        <item>경로 중간에 위치</item>
+        <item>흑연 아래 :)</item>
+        <item>열을 백업합니다</item>
+        <item>열을 지키려고 피곤하다</item>
+        <item>우리 모두가 컬럼과 컬럼을 가지고 있습니다 :)</item>
+        <item>작은 연못 옆</item>
+        <item>가방 인척</item>
+        <item>창 아래에 앉습니다</item>
+        <item>버킷 옆</item>
+        <item>양배추에 숨어</item>
+        <item>위성 고양이</item>
+        <item>여자 옆에 포즈 :)</item>
+        <item>비정상적인 카운터 디자인</item>
+        <item>위로 올라갔습니다 :)</item>
+        <item>뭔가에 대한 생각과 생각 ..</item>
+        <item>요리사에게 먹을 것을 촉구합니다</item>
+        <item>아름다운 조각상, 아름다운</item>
+        <item>고양이없이 할 수있는 단체 사진은 무엇입니까?</item>
+        <item>그림자 숨김</item>
+        <item>휴지통</item>
+        <item>팬과 같은 레벨</item>
+        <item>통나무 집 뒤에서 조심스럽게 밖으로 보입니다</item>
+        <item>벽에 껴안기</item>
+        <item>검은 색으로 변합니다</item>
+        <item>야외에서 사용하지 않는</item>
+        <item>트리에서 정상적으로 raspolozhilsya</item>
+        <item>이벤트 센터</item>
+        <item>포도 나무 사이 :)</item>
+        <item>컬럼 근처 :)</item>
+        <item>벽 근처에서 웅크 리기</item>
+        <item>검은 그릇 탐구</item>
+        <item>판금</item>
+        <item>돌의 그림자</item>
+        <item>그리고 사람들은 문을 통과합니다 ..</item>
+        <item>앉아서 부끄러워하지 마라</item>
+        <item>기계 보안</item>
+        <item>고양이 등산</item>
+        <item>별 근처 ..</item>
+        <item>열대 거인의 그늘에서</item>
+        <item>로그에 누워</item>
+        <item>지역 우회</item>
+        <item>환기의 그늘에 숨어있다</item>
+        <item>도망 가세요! 내 장작!</item>
+        <item>브릭 마운틴의 왕</item>
+        <item>지붕 테스트</item>
+        <item>집을 따라 크롤링</item>
+        <item>나무 위</item>
+        <item>고양이 사다리 특별</item>
+        <item>회색 고양이는</item>
+        <item>그놈을 위해서</item>
+        <item>중요한 것은 항아리가 떨어지지 않는다는 것입니다</item>
+        <item>바스켓이 떨어졌다 ... 아,이 고양이 ..</item>
+        <item>석조물 검사</item>
+        <item>여주인 옆</item>
+        <item>기초를 정하는 것을 제어합니다</item>
+        <item>지구상</item>
+        <item>나무 아래에 무엇이 있습니까?</item>
+        <item>특이한 그루터기 냄비, 맞습니까?</item>
+        <item>트레일 오른쪽에</item>
+        <item>2 층에</item>
+        <item>아름다운 조각</item>
+        <item>냄비 뒤를 감추었습니다</item>
+        <item>워터 펌프를 배웁니다</item>
+        <item>세계 중심의 고양이</item>
+        <item>돌에 온화한</item>
+        <item>그가 어떻게 거기에 도착했는지 아무도 모릅니다</item>
+        <item>지붕 조임 확인</item>
+        <item>캡틴 코토 피</item>
+        <item>냄비 - 고양이 :)</item>
+        <item>눈사람을 보았다</item>
+        <item>위를 더 잘 보여줍니다</item>
+        <item>헛간 소유자</item>
+        <item>평소처럼 높지는 않지만 땅에서도 떨어지지 않습니다</item>
+        <item>나를 데려 갈까요?</item>
+        <item>고양이가 나무를 기어 오르는 것을 좋아합니다!</item>
+        <item>고양이는 엄격히 금지됩니다</item>
+        <item>더 높은 색상</item>
+        <item>태양을 뒷받침</item>
+        <item>부스를 보면서 안전한 거리에서</item>
+        <item>왕실에서</item>
+        <item>요금표</item>
+        <item>이것은 보울입니다!</item>
+        <item>건축 자재를 지키기 위해!</item>
+        <item>안전한 거리에서 프로세스를 제어하기를 원합니다</item>
+        <item>미니 버스를 찾는다</item>
+        <item>창을 엿 본다</item>
+        <item>힙에 나뭇잎을 놓는 데 도움이됩니다</item>
+        <item>이상한 상자를 찾았습니다 :)</item>
+        <item>가방에 누워</item>
+        <item>임계 값에 대한 환영 :)</item>
+        <item>위대하고 아름답습니다! 골동품 칸이 되려면!</item>
+        <item>손님을 만날 준비가되었습니다</item>
+        <item>모든 바위!</item>
+        <item>지붕 아래에 숨어 있습니다</item>
+        <item>벽에 껴안기</item>
+        <item>원하는 선박 검색</item>
+    </string-array>
+</resources>

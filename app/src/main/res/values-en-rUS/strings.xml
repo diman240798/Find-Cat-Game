@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="achiv">Achievements</string>
+    <string name="action_info">Information</string>
+    <string name="action_language">Language</string>
+    <string name="action_main">Start</string>
+    <string name="action_reset">Restart</string>
+    <string name="action_setting">Settings</string>
+    <string name="agree">I Agree</string>
+    <string name="app_name">Find a cat</string>
+    <string name="buttonOK">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="channel_description">All notifications</string>
+    <string name="channel_name">Find a Cat</string>
+    <string name="cheat_help">Hint</string>
+    <string name="cheat_message">Cats are the born masters of disguise! Do you want to take a hint for 10 points? You have %d</string>
+    <string name="cheat_message_again">Cats are the born masters of disguise! Do you want to look at the hint again?</string>
+    <string name="fiandacat2">Other games</string>
+    <string name="fmessage">Thank you for choosing our application! As a token of our gratitude do give you 100 points, which can be spent on hints. As already mentioned, our application will not contain in-game purchases! Obtain points can only be fair game. :) Read more in the section Information.</string>
+    <string name="game1">Find a Cat 2</string>
+    <string name="game2">Find a Cat 3</string>
+    <string name="game_link">https://play.google.com/store/apps/details?id=srsdt1.findacat</string>
+    <string name="game_over">The game is over!</string>
+    <string name="game_over_text">"Oops, it seems the cats are over.
+Good job"</string>
+    <string name="gdpr_text">This game does not collect or use your personal data, but our partners (such as Google or Yandex) can collect certain impersonal information. For more details you can read our privacy policy.</string>
+    <string name="get_points">+10 points.</string>
+    <string name="hashTag">\#findacat</string>
+    <string name="info">Information</string>
+    <string name="info_message">"The goal of the game is to find the cat as soon as possible and touch it muzzle.
+It's fun!
+
+Bonus points that can be spent on hints are credited for each cat, found without a hint."</string>
+    <string name="locked">Achievement locked</string>
+    <string name="lost_points">-10 points.</string>
+    <string name="message_end">"Cats are over.
+
+You had to perform %d clicks on the screen to find all masters of disguise.
+
+You can reset the progress by clicking the Reset button bellow and look for cats again! Have fun!"</string>
+    <string name="not_coins">Not enough points :(</string>
+    <string name="nul_success">Success! You can find cats again.</string>
+    <string name="other_message">We offer you to play in other parts of our game :)</string>
+    <string name="permission_message">Please allow the game to access the memory of your device! Without this, we will not be able to attach a card of achievement!</string>
+    <string name="policy">Policy</string>
+    <string name="regular_notification">Cats waiting you!</string>
+    <string name="reset_sure">This action will reset the whole game progress. Do you want to continue?</string>
+    <string name="share">Share</string>
+    <string name="share_achievement">Share achievement</string>
+    <string name="share_achiv">I got an achievement \"%s\" in the game Find the Cat! Join now!</string>
+    <string name="share_game">Share game</string>
+    <string name="sound_button_off">Sound</string>
+    <string name="sound_button_on">Sound</string>
+    <string name="sure">Are you sure?</string>
+    <string name="timer">You found a cat for:</string>
+    <string name="tw_error">Something went wrong :(</string>
+    <string name="tw_post">I like to search the cats in the game Find a cat for Android! #FindACat https://play.google.com/store/apps/details?id=srsdt1.findacat</string>
+    <string name="unlocked">New achievement unlocked!</string>
+    <string name="vibro_button_off">Vibro</string>
+    <string name="vibro_button_on">Vibro</string>
+</resources>

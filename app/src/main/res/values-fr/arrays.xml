@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="achivki_names">
+        <item>Débutant</item>
+        <item>"J'aicommencé seulement!"</item>
+        <item>Expert</item>
+        <item>Cela non la limite</item>
+        <item>"œil d'aigle"</item>
+        <item>Super-vue</item>
+        <item>So HARDCORE!</item>
+        <item>"C'est impossible!"</item>
+        <item>Imparable</item>
+        <item>"Le plus rapide main dansl'ouestsauvage!"</item>
+        <item>С`estplusdifficileque de comtermoineaux</item>
+        <item>"C'est tout?"</item>
+    </string-array>
+    <string-array name="achivki_opisanie">
+        <item>Trouvez 5 chats de suite sans aides</item>
+        <item>Trouvez 15 chats de suite sans aides</item>
+        <item>Trouvez 30 chats de suite sans aides</item>
+        <item>Trouvez 50 chats de suite sans aides</item>
+        <item>Trouvez 100 chats de suite sans aides</item>
+        <item>Trouvez 200 chats de suite sans aides</item>
+        <item>Trouvez 300 chats de suite sans aides</item>
+        <item>Trouvez 400 chats de suite sans aides</item>
+        <item>Trouvez 500 chats de suite sans aides</item>
+        <item>Trouvez le chat en 2 secondes ou il est plus rapide</item>
+        <item>"Trouver le chat en 3 minutes ou plus à la recherche d'un chat"</item>
+        <item>"Terminer le jeu jusqu'à la fin"</item>
+    </string-array>
+    <string-array name="podskazki">
+        <item>"N'obstruez pas les buissons, ils sont aimes par les chats"</item>
+        <item>Chats aiment les triangles</item>
+        <item>"Certains chats pensent qu'eux les cameleons"</item>
+        <item>Pas sur le pont</item>
+        <item>Ne regarde pas a droite</item>
+        <item>Regarde par un oeil a cause de la grille</item>
+        <item>"Chat a ce qu'il faut a n'importe quelle dame"</item>
+        <item>Chat le concierge</item>
+        <item>"Dans l'obscurite de nuit, a la lumiere du jour je tourne le regard sur toi!"</item>
+        <item>"Je pense qu'il n'y a pas de sens de faire a la partie droite de la photo l'attention"</item>
+        <item>"Il Semble, quelqu'un pense qu'il l'oiseau"</item>
+        <item>"Dans le cadre du refroidisseur d'air"</item>
+        <item>Assis au milieu des branches</item>
+        <item>Je pense, la filature est conduite a droite</item>
+        <item>Meme dans la brousse ont trouve un siege approprie</item>
+        <item>Ce chandelier!</item>
+        <item>"Il s'est cache ainsi qu'est visible seulement l'oreille et l'oeil!"</item>
+        <item>Et quel est la queue la on voit ? Oh, et les pattes aussi!</item>
+        <item>"Peut tomber sur la tete de quelqu'un!"</item>
+        <item>"Se trouve a l'ombre d'un arbre tropical :)"</item>
+        <item>"Chat Tachete dans l'embuscade!"</item>
+        <item>Chats aiment se chauffer sur le soleil :)</item>
+        <item>Profiter des fleurs</item>
+        <item>Pres de cet escalier une bordure tres interessante!</item>
+        <item>Et ce chat aime etre a l`ombrage!</item>
+        <item>Situe au-dessus de la fontaine</item>
+        <item>Se préparer à casser des verres</item>
+        <item>"Sur l'un des \"cretes\""</item>
+        <item>"Fusionne avec le tronc d'arbre"</item>
+        <item>un autre balayage</item>
+        <item>Près de la neige</item>
+        <item>Couvert par bardane</item>
+        <item>A cote de la lanterne</item>
+        <item>"Sur la crête d'une vague"</item>
+        <item>Je suis assis haut, je regarde loin!</item>
+        <item>Ondulations dans les yeux</item>
+        <item>"Chat – l'alpiniste!"</item>
+        <item>Accroupi au bord de la route</item>
+        <item>Oh,se sont des blocs de beton!</item>
+        <item>Protegeons les escaliers</item>
+        <item>Chat, qui vit sur le toit.</item>
+        <item>"Chat pense qu'il est un oiseau mechant."</item>
+        <item>Pourquoi tous les chats aiment ainsi les arbres?</item>
+        <item>Protege les cornes</item>
+        <item>Je pense, il faut regarder plus bas bardanes</item>
+        <item>Chat se serre vers les maisons</item>
+        <item>Il controle la justesse du stationnement!</item>
+        <item>Asseyez-vous, tous les sieges sont libres!</item>
+        <item>"Gueule orange regarde a cause de l'angle orange!"</item>
+        <item>Sur un haut poste de surveillance!</item>
+        <item>Etudie les cercles enigmatiques sur les champs :)</item>
+        <item>Hid derriere un chariot bizarre</item>
+        <item>Chat controle pour que personne ne viole!</item>
+        <item>"Est bien, le soleil n'inquiete pas!"</item>
+        <item>Chat craint beaucoup les voyages!</item>
+        <item>Haut escalier, tu ne te leveras pas a la fois … Il faut se reposer…</item>
+        <item>Sur le garde du territoire!</item>
+        <item>"Et comment descendre? d'ici?"</item>
+        <item>Сhat a une belle maisonnette!</item>
+        <item>Je pense, a vous se trouve etre focalise sur le centre et rejeter les details :)</item>
+        <item>Chat se comporte indecemment dans le sable!</item>
+        <item>Et comment il a pu la-bas penetrer?</item>
+        <item>Si terrain non ce sans herbe, il serait impossible de voir le chat en general!</item>
+        <item>De quoi tu regardes ? Retire!</item>
+        <item>"Vous etes interesses par la partie superieure de l'image ;)"</item>
+        <item>"Comme l'aiguille, mais c`est le chat :)"</item>
+        <item>"Tout le monde aime les fleurs! Et les chats non l'exception!"</item>
+        <item>Refroidi sur les roches</item>
+        <item>Il est etonnant, comme ces feuilles sont pareilles a son coloriage …</item>
+        <item>"Quelle marque de fabrique etrange d'or…"</item>
+        <item>Protege vehicule</item>
+        <item>Et que cela pour la boulette pres du pied de la colline?</item>
+        <item>"il s'est cache de la pluie."</item>
+        <item>"Cache dans l'ombre"</item>
+        <item>"Pourquoi ne pas dormir sous l'ombre?"</item>
+        <item>"Se cacher de la chaleur a l'ombre"</item>
+        <item>"A fusionne avec l'ombre."</item>
+        <item>"Hou la la! C'est de la bardane!"</item>
+        <item>Pattes sales</item>
+        <item>Herbe est mieux que le feuillage tombant.</item>
+        <item>Et que cela tu vends ici!?</item>
+        <item>Joue dans le feuillage.</item>
+        <item>Peut-etre,c`est le chat de Santa-Klaus?</item>
+        <item>Rampes sont accomplies dans un style tres interessant...</item>
+        <item>"Sous l'arbre, mais non par la terre."</item>
+        <item>"Masque dans l'ombre de la végétation"</item>
+        <item>"Il est un peu plus loin, que l'essentiel."</item>
+        <item>Arbres dans les pots attirent les chats!</item>
+        <item>Bordure est trop haut.</item>
+        <item>Explique les structures en bois</item>
+        <item>Il est froid sur la neige, exactement?</item>
+        <item>Il est impossible d`etre couche sur ie terrain!</item>
+        <item>Comme se il etait coince dans les textures:)</item>
+        <item>Chats aiment les buissons :)</item>
+        <item>"Ou se cacher encore, si non a l'herbe ?"</item>
+        <item>Se cacher de la scène du crime</item>
+        <item>Cache derriere le dos!</item>
+        <item>Aime grimper aux arbres</item>
+        <item>A la sortie</item>
+        <item>Probablement,ce canape a un accoudoirs confortables .. Eh bien, vous avez compris :)</item>
+        <item>Se frotte contre le mur</item>
+        <item>Chats aiment les meubles rembourres :)</item>
+        <item>Construit une hutte de branches</item>
+        <item>Chat sur le garde de vos choses, pendant vous baignez :)</item>
+        <item>Hides derriere un tas de branches</item>
+        <item>Asseyez-vous, regardez loin</item>
+        <item>En compagnie de jolies dames</item>
+        <item>Protege les abreuvoirs :)</item>
+        <item>Chat sur le garde des documents</item>
+        <item>Pres du soleil et en meme temps loin de lui...</item>
+        <item>Comme le sac, mais c`est le chat :)</item>
+        <item>Plus haut, mieux apercu!</item>
+        <item>A cote de la place pour le narcissisme! :)</item>
+        <item>Des paniers interessants...</item>
+        <item>Presque la photo :)</item>
+        <item>"Miroirs - l'aimant pour les chats!"</item>
+        <item>"À l'intérieur"</item>
+        <item>Enceintes protegeront contre qui on desire... Mais non des chats!</item>
+        <item>Grand soulier - c`est le reve de chaque chat!</item>
+        <item>Ces sentiers sont crees pour les promenades.</item>
+        <item>Il est bon, quand il y a un recel sur la tete.</item>
+        <item>Pourquoi aller la ou il ya des gens??</item>
+        <item>Quels interessants rouges buissons! :)</item>
+        <item>Se cacher derrière les fleurs</item>
+        <item>Aller a monter. Mais sur quoi ?</item>
+        <item>"Pourquoi a cote de l'arbre sont les pierres ?"</item>
+        <item>Embuscade sur la route.</item>
+        <item>Parterre tres extraordinaire.</item>
+        <item>Surveille la bicyclette.</item>
+        <item>Chat joue avec les feuilles.</item>
+        <item>Hid haute</item>
+        <item>Sable chat</item>
+        <item>Explorez boulder inhabituel :)</item>
+        <item>"A l'ombre des jardins"</item>
+        <item>Comme le pissenlit.</item>
+        <item>Cette piece rouillee tombera en ruines bientot.</item>
+        <item>Il a disparu comme ninja!</item>
+        <item>Probablement, est de parler avec un homme</item>
+        <item>Chat - melomane :)</item>
+        <item>"Chat s'est glace."</item>
+        <item>"Plus loin de l'eau."</item>
+        <item>Place aimee du chat ;)</item>
+        <item>Arbre bonsai</item>
+        <item>A penetre la-bas, ou les chats ne peuvent.</item>
+        <item>Looks \"autour du coin\"</item>
+        <item>Automne - le meilleur temps pour le camouflage.</item>
+        <item>Entoure de porcelaine :)</item>
+        <item>"On a trop chaud au soleil, et dans l'ombre il est bon."</item>
+        <item>Il est bon de vivre pres de cafe.</item>
+        <item>"A l'horizon."</item>
+        <item>Le chat est pas a vendre!</item>
+        <item>"Chat passe les doctrines d'incendie."</item>
+        <item>"Chat - l'associe"</item>
+        <item>Chante les serenades.</item>
+        <item>"Dort sur l'etage nul."</item>
+        <item>Chat pense que il est la violette.</item>
+        <item>"a quelqu'un le char, et quelqu'un la voiture."</item>
+        <item>Sortez de la table!</item>
+        <item>Derriere la cloture</item>
+        <item>Hid sous le canon</item>
+        <item>Penombre - le meilleur ami du chasseur.</item>
+        <item>Promenons sur la pente.</item>
+        <item>"Gravure sur bois c'est bien!"</item>
+        <item>Gardien de la véranda</item>
+        <item>Roux sur le roux.</item>
+        <item>Il est cache dans la penombre des yeux superflus.</item>
+        <item>Chat fait le detour.</item>
+        <item>Au dela des barricades.</item>
+        <item>a la frontiere.</item>
+        <item>Chat intrepide sur le tube a gaz.</item>
+        <item>Embuscade dans le feuillage</item>
+        <item>"Arbres interessent les chats plus que l'architecture!"</item>
+        <item>"Dans l'epicentre du chaos"</item>
+        <item>Et que vous buvez ?</item>
+        <item>En avant! Pour la batterie!</item>
+        <item>Feuille au mur ? Pourquoi ?</item>
+        <item>Il a presque perdu son chemin.</item>
+        <item>"Je pense, le chat se trouve dans l'ombre"</item>
+        <item>Gardien du ciment :)</item>
+        <item>Pots au milieu de la rue aux chats a son gout ;)</item>
+        <item>Se prepare a penetrer plus haut!</item>
+        <item>"Pour qu'au conducteur n'etait pas ennuyeusement :)"</item>
+        <item>Peut-etre,le chat a une maison.</item>
+        <item>Tout le monde connaisse que les chats aiment assis a genoux</item>
+        <item>Petite ile de la terre dans les jungles beton :)</item>
+        <item>"S'est couche sur la verdure ;)"</item>
+        <item>Prend la place de la fleur</item>
+        <item>Ouvrez la porte!</item>
+        <item>"Pour prendre l'air, il est entierement pas obligatoire de quitter l'habitation!"</item>
+        <item>"Il s'agit d'un espace privé!"</item>
+        <item>Croise precipitamment la chaussee</item>
+        <item>Мышкины палаты</item>
+        <item>"Au balcon il n'y a pas de porte ?"</item>
+        <item>Peeking autour du coin</item>
+        <item>Marche vivement de la maison</item>
+        <item>Inspection des marchandises</item>
+        <item>Nous revenons de la promenade</item>
+        <item>Lay pres de la structure de support</item>
+        <item>"A fusionne avec l'herbe comme ninja :)"</item>
+        <item>Verifie la qualite du support</item>
+        <item>"Comme l'etoile pres du sapin du Nouvel an :)"</item>
+        <item>Voici lui, a cote de la maisonnette! Seulement a peine a gauche! Оh, a droite! Eh bien, vous avez compris :)</item>
+        <item>Ce chat se passionne le parcour!</item>
+        <item>Vif sur vif, rouge sur le rouge!</item>
+        <item>"Il a l'intention de renverser le cintre!"</item>
+        <item>"Il est possible, le chat sous l'abatis"</item>
+        <item>"La tentative suivante de se trahir pour l'oiselet d'Angry Birds :)"</item>
+        <item>"Lay down a l'entree"</item>
+        <item>"Au lieu de la fleur s'est installe"</item>
+        <item>Visite du territoire confie de la hauteur</item>
+        <item>Entre les lattes</item>
+        <item>Sat dans les tropiques :)</item>
+        <item>Emprisonne</item>
+        <item>"Tapis toujours dans l'honneur! Meme dans les chats!"</item>
+        <item>Chats aiment la verdure!</item>
+        <item>Je ne presente pas, comment ils ainsi sont a la hauteur adroitement ?</item>
+        <item>Une fois eleve ici au premier etage</item>
+        <item>Est parvenu presque au parterre</item>
+        <item>"Soleil est parvenu presque jusqu'a le chat"</item>
+        <item>Parmi les pierres est un monolithe moelleux :)</item>
+        <item>"J'espere qu'il joue simplement dans le sable"</item>
+        <item>Attend le garcon de cafe</item>
+        <item>"Ferez l'attention a l'enceinte"</item>
+        <item>Au milieu de la crete :)</item>
+        <item>Pas sur le terrain est la meme marche</item>
+        <item>a un tel froid on veut rester assis les maisons</item>
+        <item>Sous la capuche</item>
+        <item>Est plus haut que les pots</item>
+        <item>"Sam dans l'ile verte"</item>
+        <item>"Oh, c'est les toilettes :)"</item>
+        <item>A cause des branches on ne voit presque pas!</item>
+        <item>A cote de la fenetre</item>
+        <item>Pourquoi dans les bars telles hautes chaises ?</item>
+        <item>Sur le bord ...</item>
+        <item>"a penetre haut, l'espiegle"</item>
+        <item>Chambre du chat sur le deuxieme etage</item>
+        <item>"N'ont pas lance a l'interieur - ce n`est pas la difficulte! J'irai en tout cas!"</item>
+        <item>"Vous avez remarque aussi qu'aux chats plaisent les buissons ?"</item>
+        <item>Ne pas ecraser le chat!</item>
+        <item>Camoufle dans les couleurs</item>
+        <item>"Fait les affaires louches sous l'arbre"</item>
+        <item>Sur le deuxieme niveau</item>
+        <item>Tant de couleurs peuvent attirer le chat!</item>
+        <item>Bouddha Est plus haut</item>
+        <item>Est pret a partir pour le chemin</item>
+        <item>Sur un moyen plan</item>
+        <item>"Il est bon qu'il y a un pont. Mais il faudrait nager encore..."</item>
+        <item>Attend les visiteurs</item>
+        <item>"Que non l'ornement ?"</item>
+        <item>Il y a beaucoup de neige sur le toit</item>
+        <item>Ou disparaitre au chat du Nouvel an, si non vers le sapin ?</item>
+        <item>Ce n`est pas la Poste de la Russie</item>
+        <item>"Ce sapin a ennuye, je partirai d'elle"</item>
+        <item>Peut etre sous le sapin il y a deja des cadeaux ?</item>
+        <item>Toit glissant! ne tomberait pas!</item>
+        <item>"Quelqu'un va obtenir cadeau moelleux!"</item>
+        <item>"Comme l'ecureuil, mais c`est le chat"</item>
+        <item>Derriere la vitre</item>
+        <item>"Belle chandelle, n'est-ce pas ?"</item>
+        <item>"Pingouins, les ours et les tas de neige. Qu'encore le bonheur demande ?"</item>
+        <item>Petite ile de la verdure pendant les froids</item>
+        <item>"Les chats sont loin de l'architecture"</item>
+        <item>Cache les cadeaux</item>
+        <item>"Chaudement la, il vaut mieux a l'ombre"</item>
+        <item>Va voler sans faute le costume :3</item>
+        <item>"Que boules! M'interesseraient aussi!"</item>
+        <item>Je me suis assis sur la rive</item>
+        <item>Cette enceinte est semblable aux quilles</item>
+        <item>À un niveau avec une lanterne</item>
+        <item>"Une tete d'or! Sensationnel!?"</item>
+        <item>Au milieu du regne neigeux</item>
+        <item>Le seul ornement de ce sapin - le chat!</item>
+        <item>"Des vetements accroches! Il n'y a nulle part ou aller!"</item>
+        <item>"En hiver la fontaine n'est pas dangereuse!"</item>
+        <item>"Dans l'arc a la maison chaude"</item>
+        <item>"Fete n'a pas encore commence, et apres la table le chat n'a rien a faire exactement!"</item>
+        <item>Gele la queue et admire le sapin</item>
+        <item>"Et nous revons l'herbe pres de la maison..."</item>
+        <item>Probablement cache les cadeaux :)</item>
+        <item>­Sapin sur le premier plan, et le chat...</item>
+        <item>"A l'entree"</item>
+        <item>Sur cette place, ou pendent les chaussettes :)</item>
+        <item>Santa-chat protege de vos cadeaux :)</item>
+        <item>"Tous regardent le sapin, et personne ne tourne le regard a cote de l'arbre solitaire ..."</item>
+        <item>Situe sur le balcon</item>
+        <item>De la hauteur espionne le papi. Soudain, il va donner quelque chose? ? :)</item>
+        <item>"Camera n'est pas focalisee sur le chat :("</item>
+        <item>Il etait assis a cote de la «scene»</item>
+        <item>Bruissement!</item>
+        <item>"Pour les chats, il n'y a pas d'obstacles"</item>
+        <item>Promenez-vous le long des pots</item>
+        <item>Housecat</item>
+        <item>Presses buches</item>
+        <item>"Figurine tres extraordinaire du cerf :) Il n'est pas etonnant qu'elle interesse tous!"</item>
+        <item>Basket - presque une boite!</item>
+        <item>Soudain que fera descendre ? On peut garder</item>
+        <item>Avant une table</item>
+        <item>"Gruau n'interesse pas. Nous partons :)"</item>
+        <item>Niche dans le bois</item>
+        <item>A fusionne avec le feuillage comme le chasseur sauvage.</item>
+        <item>Peeking entre les lattes</item>
+        <item>"Probablement se cachait dans le parterre et n'a pas remarque, comment a flotte."</item>
+        <item>"Au coin, mais non sur l'asphalte!"</item>
+        <item>Et les chats savent battre aux cloches ?</item>
+        <item>"Pas encore au soleil, mais deja non sous l'ombre"</item>
+        <item>Dans la rue, mais non dans la maison</item>
+        <item>"Eleve, mais pas autant qu'elle pouvait"</item>
+        <item>Apres le gouvernail</item>
+        <item>"Pierre - le meilleur recel. N'est pas perce :)"</item>
+        <item>"Il est dangereux de lancer le chat vers l'ordinateur!"</item>
+        <item>"Montai l'escalier a claire"</item>
+        <item>Dans sa place pourrait tres bien etre une statue</item>
+        <item>Peut-etre les oiseaux captures</item>
+        <item>"Ou les gens n'interferent pas"</item>
+        <item>Hid dans la \"jungle\"</item>
+        <item>Bebi - chat</item>
+        <item>Face - Control</item>
+        <item>"Non a cote de la voiture. S'approche seulement :)"</item>
+        <item>Sur le plancher</item>
+        <item>Est entoure des objets mous</item>
+        <item>"Оn ne peut pas la marcher! Quelqu'un gronderont!"</item>
+        <item>Poteau</item>
+        <item>La plus grande oeuvre artistique</item>
+        <item>"Dans l'entourage de la lumiere"</item>
+        <item>"Eh bien, qui n'aime pas sortir de nous sur le balcon ?"</item>
+        <item>Chat-soldat</item>
+        <item>A traine parmi les cadeaux</item>
+        <item>Danseur a rouge a effraye le chat par quelque chose!!!</item>
+        <item>Fluffy surfeur</item>
+        <item>"Sur le garde de l'entree a la maison"</item>
+        <item>Oh-oh! Ils peuvent ecraser!</item>
+        <item>Chat manoeuvre entre les pieds des Asiates :)</item>
+        <item>"Chat a fusionne avec l'arbre, il est impossible de distinguer :)"</item>
+        <item>Сhat roux se chauffe sur le soleil</item>
+        <item>Sous une des tables, sur qui il y a une saliere</item>
+        <item>Voyage des sommets</item>
+        <item>Cadeau rouge parmi les cadeaux rouges</item>
+        <item>Garde la tasse :)</item>
+        <item>"Quel bois de chauffage n'est pas une chaise?"</item>
+        <item>Chat se cachant dans un paradis vegetarien.</item>
+        <item>Se prepare au vol sur le globe inconnu :)</item>
+        <item>Camoufle parmi les figures</item>
+        <item>A cote des gens, mais non dans le fouillis des evenements</item>
+        <item>Non au soleil. Chaudement!</item>
+        <item>Amateur a monter plus haut</item>
+        <item>A passe qelque peu sur cette partie О_о</item>
+        <item>"Chat - l'ingenieur du son!"</item>
+        <item>Les chats savent comment fusionner avec les objets... Par les arbres la, ou les pierres...</item>
+        <item>Rabattre!</item>
+        <item>Cloture pour correspondre au chat</item>
+        <item>Lactaire delicieux sur roux</item>
+        <item>Il est assis dans le garage</item>
+        <item>Auburn couvreur</item>
+        <item>Presque grimpeur</item>
+        <item>Illusion est direct! Soit sur le plancher, soit sur le comptoir</item>
+        <item>Est frotte sous les pieds</item>
+        <item>Se prepare a entrer par derriere et casser cette magnificence :(</item>
+        <item>Du plancher observe pour que personne ne vole rien!</item>
+        <item>Sur un gauche bord</item>
+        <item>"Il est confortable d'etre assis par dessus! On peut emporter!"</item>
+        <item>"D'une haute position suit pour que ne personne accrochent"</item>
+        <item>Se detend, en etant sur la marchandise</item>
+        <item>Aller a la table</item>
+        <item>Cycliste</item>
+        <item>"D'un autre cote"</item>
+        <item>entre les cotes</item>
+        <item>Au milieu des copines en noir et blanc</item>
+        <item>Lactaire delicieux a fusionne avec roux :)</item>
+        <item>Elephants sont extraordinaire</item>
+        <item>Garde-frontiere (pourquoi non la frontiere ?)</item>
+        <item>Ame dans la rue, et le corps de la maison</item>
+        <item>"S'est assis sur sec"</item>
+        <item>Verdure. La verdure est necessaire aux chats :)</item>
+        <item>"Chat n'est pas vendu :)"</item>
+        <item>Il est interessant, et les chats sont necessaire 4 skis ?</item>
+        <item>Controle les emballages</item>
+        <item>Selon tels toits tu ne courras pas specialement</item>
+        <item>"A l'honneur"</item>
+        <item>Seulement le chat peut indifferemment aller devant une telle construction interessante (Non selon la dalle)</item>
+        <item>"Sur le regiment l'Ouragan ? Le chat deja la!"</item>
+        <item>"Voyez-vous l'inscription ? Ainsi voici le chat cote a cote, est serre par la gravitation :)"</item>
+        <item>Zebre inhabituel</item>
+        <item>Oies, oies, ga-ga-ga!</item>
+        <item>"Regard faisant peur d'en bas. A l'instant ici tout retournera!"</item>
+        <item>Regarde a cause du stellage</item>
+        <item>Quitte la maison</item>
+        <item>Carnassier a occupe la position avantageuse :)</item>
+        <item>Herbe grandit directement de la maison!?</item>
+        <item>"A echange deja l'argent, choisit le journal :)"</item>
+        <item>Grimpez plus haut</item>
+        <item>Nous descendrons?</item>
+        <item>Sentinelle</item>
+        <item>Apparemment, il est monte par la fenetre</item>
+        <item>"A chasse le chat de la pierre et s'est assise, si tu comprends!"</item>
+        <item>Debout sur un chemin etroit</item>
+        <item>Cache derriere une pierre</item>
+        <item>Il fait chaud</item>
+        <item>Est assis sur meme, sur quoi et la jeune fille</item>
+        <item>Ce sentiment, quand le chat est frotte sur le pied :3</item>
+        <item>"Marque l'arbre, le gredin!"</item>
+        <item>Quelle est cette masse blanche? Les pantoufles sous le lit ou...</item>
+        <item>Vous ne voulez pas vous asseoir?</item>
+        <item>Deplacer en toute confiance sur une piste</item>
+        <item>"Lecture d'un signe :)"</item>
+        <item>Chats arrives</item>
+        <item>Le chat, qui se trouve sous la cloture</item>
+        <item>Il veut prendre le livre et le mettre dans le placard</item>
+        <item>Hides derriere le pied</item>
+        <item>Stomp a creuser le sol</item>
+        <item>Tristesse, pres du mur</item>
+        <item>Jardinier et sa brouette</item>
+        <item>Vous ne pouvez pas surmonter les barres :(</item>
+        <item>Faufiler le long du mur</item>
+        <item>Il est urgent de sortir! Et pourquoi il est arrive la?</item>
+        <item>Gardez un ?il sur la victoire</item>
+        <item>Pret a saisir ses jambes! Asseyez-vous ...</item>
+        <item>"Preparation pour l'hiver"</item>
+        <item>"Preparation de l'acte de foi"</item>
+        <item>"L'obscurite, en passant, un ami et les chats, trop"</item>
+        <item>"Et il n'a pas peur de se mouiller, car"</item>
+        <item>Se faufile sous un buisson</item>
+        <item>"Sous ours. Je ne m'y attendais? :)"</item>
+        <item>Selectionne sur lequel se coucher</item>
+        <item>Le chaud</item>
+        <item>Nous prenons une promenade?</item>
+        <item>Blanc et moelleux</item>
+        <item>Apparemment, sur le banc</item>
+        <item>Batiment dans de bonnes pattes</item>
+        <item>Sur la colline</item>
+        <item>Il se met sous vos pieds!</item>
+        <item>Parmi la verdure, mais pas sur le terrain</item>
+        <item>Ramoneur</item>
+        <item>Avec interet sur le dessus</item>
+        <item>"Ce chat, etonnamment, n'aime pas monter haut :)"</item>
+        <item>Sur douce</item>
+        <item>cadeau Shaggy</item>
+        <item>"Il lorgnant derriere l'hotesse"</item>
+        <item>laissez le chat</item>
+        <item>Spy sur le balcon</item>
+        <item>Lay down sous la table</item>
+        <item>Couvrir le rideau</item>
+        <item>"Qu'est-ce pas une decoration?"</item>
+        <item>Le chat, qui aime se promener sur les toits</item>
+        <item>Ci-dessous employe</item>
+        <item>Perdu parmi les boites</item>
+        <item>Climb bois</item>
+        <item>derriere la jungle</item>
+        <item>Chevreuils effrayes et se sont caches sous les planches</item>
+        <item>"Un coup d'oeil sur un seau ..."</item>
+        <item>"L'obscurite des autres chats"</item>
+        <item>Il est assis avec \"pare\"</item>
+        <item>Allez, je vais tenir</item>
+        <item>Fixer sous un arbre</item>
+        <item>Promenez-vous le long des pots</item>
+        <item>Chats sont arrives! Sur le toit O_o</item>
+        <item>Hautement assis ... et veut encore plus eleve!</item>
+        <item>"Un coup d'oeil a travers le motif"</item>
+        <item>Peeking sous une grande fleur :)</item>
+        <item>Chemin a travers les congeres</item>
+        <item>"Je me couchai sur l'herbe, se cachant derriere un journal. Severe chat :)"</item>
+        <item>Sous les pots :)</item>
+        <item>Sous la petite main :)</item>
+        <item>controles toit</item>
+        <item>"Un coup d'oeil autour de porche"</item>
+        <item>Brazen regardant a travers une cloture</item>
+        <item>Elegant restaurant avec un nom cool</item>
+        <item>gardes Fan</item>
+        <item>"Elle a fusionne avec l'arbre"</item>
+        <item>sur le sol</item>
+        <item>Il est assis sur les fleurs</item>
+        <item>Le chat a mange trop ne pouvait laisser sur la table</item>
+        <item>Explorez les ruines</item>
+        <item>Il est assis sur la chaise royale :)</item>
+        <item>Vient de paraitre</item>
+        <item>pres de volets</item>
+        <item>Vers le soleil</item>
+        <item>Assis sur une petite colonne</item>
+        <item>Union Square</item>
+        <item>Monter ou descendre, on ne sait pas</item>
+        <item>La chaleur et le confort :)</item>
+        <item>Enfonce dans la neige pres des buissons!</item>
+        <item>Ses yeux brillent comme une ampoule de guirlandes</item>
+        <item>En se cachant derriere les hautes fleurs</item>
+        <item>Les chats sont arrives!</item>
+        <item>Avant le centre de la musique</item>
+        <item>Wow! Quel gros rocher!</item>
+        <item>"A l'etape tout en haut"</item>
+        <item>Au-dessus du soleil!</item>
+        <item>Il furtivement autour du coin</item>
+        <item>"L'interieur du symbole Illuminati"</item>
+        <item>Je rechauffe sur la pierre</item>
+        <item>Black cat sur harnais noir :)</item>
+        <item>Allonge sur le marbre</item>
+        <item>Que fait-il la dans le pays</item>
+        <item>Elle a fusionne avec le feuillage</item>
+        <item>voie du milieu</item>
+        <item>Sous graffitis :)</item>
+        <item>colonne cale</item>
+        <item>Colonne de prop Fatigue</item>
+        <item>Trop de colonnes :)</item>
+        <item>A cote de la plus petite</item>
+        <item>Pretend sac</item>
+        <item>Il est assis pres de la fenetre</item>
+        <item>A cote de la benne</item>
+        <item>Niche dans un chou</item>
+        <item>chat satellite</item>
+        <item>"Posant a cote d'une femme :)"</item>
+        <item>La conception inhabituelle du compteur</item>
+        <item>Je monte plus haut :)</item>
+        <item>Chat bas et quelque chose a penser...</item>
+        <item>Supplia le cuisinier a manger :)</item>
+        <item>La belle statue, belle</item>
+        <item>Quelle est la photo de groupe peut faire sans un chat?</item>
+        <item>"Cache dans l'ombre"</item>
+        <item>Maitre des ordures</item>
+        <item>A un certain niveau, avec un pan</item>
+        <item>Indignee il Peeping derriere un arbre coupe</item>
+        <item>Pres du mur</item>
+        <item>Il devient noir chat peut etre fusionne avec un O_o vert</item>
+        <item>Pas dans la rue</item>
+        <item>Gracieusement situe sur un arbre</item>
+        <item>Dans le centre des evenements</item>
+        <item>Entre vignes :)</item>
+        <item>Pres des \"colonnes\" :)</item>
+        <item>Il etait assis pres du mur</item>
+        <item>Explore le navire noir</item>
+        <item>fer blanc</item>
+        <item>"Dans l'ombre de la pierre"</item>
+        <item>Les gens passent par la porte...</item>
+        <item>Asseyez-vous, ne soyez pas timide</item>
+        <item>Protege voiture</item>
+        <item>Cat grimpeur</item>
+        <item>Pres de la \"star\"...</item>
+        <item>"Dans l'ombre d'un geant tropical"</item>
+        <item>Allonge sur un journal</item>
+        <item>zone Bypass</item>
+        <item>"Cache dans l'ombre de la ventilation"</item>
+        <item>Sortez! Mon bois!</item>
+        <item>Brique Mountain King</item>
+        <item>Verifiez le toit</item>
+        <item>Il vole le long de la maison</item>
+        <item>Sur le bois</item>
+        <item>Special, echelle de chat</item>
+        <item>Chat gris se confond avec la localite</item>
+        <item>Pour gnome</item>
+        <item>La principale chose qui ne serait pas abandonne le pot</item>
+        <item>Commercial a chute... Oh, ce chat...</item>
+        <item>Verifie embrayage</item>
+        <item>"Pres de l'hotesse"</item>
+        <item>Controles de pose fondation</item>
+        <item>sur un terrain</item>
+        <item>"Qu'y at-il sous l'arbre?"</item>
+        <item>Pot inhabituel de la souche, est-ce pas?</item>
+        <item>A droite de la piste</item>
+        <item>Au deuxieme etage</item>
+        <item>Belle sculpture</item>
+        <item>Il se cache derriere un pot</item>
+        <item>"Apprendre chateau d'eau"</item>
+        <item>Chat dans le centre du monde</item>
+        <item>Rechauffe sur les rochers</item>
+        <item>Comment il est arrive la, on ne sait</item>
+        <item>Verifie les fixations de toit</item>
+        <item>Cat capitaine</item>
+        <item>Cat-pot :)</item>
+        <item>Fait un bonhomme de neige et est heureux</item>
+        <item>Au-dessus vu mieux</item>
+        <item>proprietaire de la grange Gloomy</item>
+        <item>"Pas aussi eleve que d'habitude, mais aussi sur le terrain ne vient pas vers le bas"</item>
+        <item>Va me prendre avec vous?</item>
+        <item>Les chats aiment grimper aux arbres!</item>
+        <item>La, ou les chats sont strictement interdits</item>
+        <item>Fleurs dessus</item>
+        <item>Encadree retour du soleil</item>
+        <item>"A partir d'une distance de securite observation niche"</item>
+        <item>Sur le lit royal</item>
+        <item>Droit devant</item>
+        <item>Ceci est un rocher!</item>
+        <item>Le garde des materiaux de construction!</item>
+        <item>"Il prefere gerer le processus a partir d'une distance de securite"</item>
+        <item>Attention pour le bus</item>
+        <item>Regarde par la fenetre :)</item>
+        <item>Aide a jeter un tas de feuilles dans le meme</item>
+        <item>Trouve boite \"inhabituelle\" :)</item>
+        <item>Lay down sur les sacs</item>
+        <item>Salue sur le seuil :)</item>
+        <item>Fort et beau! Tout comme des colonnes antiques!</item>
+        <item>Pret a accueillir les invites</item>
+        <item>Tout Rock!</item>
+        <item>Hid sous le toit</item>
+        <item>Accrochais au mur</item>
+        <item>A la recherche du conteneur souhaite</item>
+    </string-array>
+</resources>
