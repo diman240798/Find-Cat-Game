@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:background="@drawable/catbg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout style="@style/mStyleLinearLayoutWeightSum">
+        <LinearLayout style="@style/mStyleLinearLayout_weight">
+            <Button android:id="@+id/soundBtn" android:text="@string/sound_button_on" android:drawableLeft="@drawable/ic_volume_on" style="@style/mStyleButton" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout style="@style/mStyleLinearLayoutWeightSum">
+        <LinearLayout style="@style/mStyleLinearLayout_weight">
+            <Button android:id="@+id/vibrationBtn" android:text="@string/vibro_button_on" android:drawableLeft="@drawable/ic_vibrate_on" style="@style/mStyleButton" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout style="@style/mStyleLinearLayoutWeightSum">
+        <LinearLayout style="@style/mStyleLinearLayout_weight">
+            <Button android:id="@+id/resetBtn" android:text="@string/action_reset" android:drawableLeft="@drawable/ic_refresh" style="@style/mStyleButton" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout style="@style/mStyleLinearLayoutWeightSum">
+        <LinearLayout style="@style/mStyleLinearLayout_weight">
+            <Button android:id="@+id/infoBtn" android:text="@string/action_info" android:drawableLeft="@drawable/ic_information" style="@style/mStyleButton" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout style="@style/mStyleLinearLayoutWeightSum">
+        <LinearLayout style="@style/mStyleLinearLayout_weight">
+            <Button android:id="@+id/languageBtn" android:text="@string/action_language" android:drawableLeft="@drawable/ic_language" style="@style/mStyleButton" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

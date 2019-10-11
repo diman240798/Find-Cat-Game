@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_gravity="center" android:id="@+id/dialog_memory_main" android:layout_width="320.0dip" android:layout_height="250.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:gravity="center" android:background="@drawable/dialog_bg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="12.0dip">
+        <TextView android:id="@+id/TextView01" android:text="@string/permission_message" style="@style/mStyleDialogText" />
+    </RelativeLayout>
+    <Button android:id="@+id/ButtonCancel" style="@style/mStyleDialogButtonClose" />
+</RelativeLayout>

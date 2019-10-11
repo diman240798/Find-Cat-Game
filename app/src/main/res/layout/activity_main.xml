@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center" android:orientation="vertical" android:background="@drawable/catbg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@+id/other_games" android:background="@drawable/other_games_bg" android:paddingLeft="14.0dip" android:paddingTop="5.0dip" android:paddingRight="14.0dip" android:paddingBottom="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="16.0dip" android:layout_alignParentTop="true" android:layout_alignParentEnd="true">
+        <TextView android:textColor="@color/colorWhite" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/fiandacat2" android:layout_marginEnd="6.0dip" />
+        <ImageView android:id="@+id/other_games_btn" android:focusable="true" android:clickable="true" android:layout_width="30.0dip" android:layout_height="30.0dip" app:srcCompat="@drawable/ic_drchast" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout style="@style/mStyleLinearLayoutWeightSum">
+            <LinearLayout style="@style/mStyleLinearLayout_weight">
+                <Button android:id="@+id/startGameBtn" android:text="@string/action_main" android:drawableLeft="@drawable/ic_play" style="@style/mStyleButton" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout style="@style/mStyleLinearLayoutWeightSum">
+            <LinearLayout style="@style/mStyleLinearLayout_weight">
+                <Button android:id="@+id/achievementsBtn" android:text="@string/achiv" android:drawableLeft="@drawable/ic_achiv" android:onClick="openAchievementsScreen" style="@style/mStyleButton" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout style="@style/mStyleLinearLayoutWeightSum">
+            <LinearLayout style="@style/mStyleLinearLayout_weight">
+                <Button android:id="@+id/shareBtn" android:text="@string/share" android:drawableLeft="@drawable/ic_share" style="@style/mStyleButton" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout style="@style/mStyleLinearLayoutWeightSum">
+            <LinearLayout style="@style/mStyleLinearLayout_weight">
+                <Button android:id="@+id/settingsBtn" android:text="@string/action_setting" android:drawableLeft="@drawable/ic_settings" style="@style/mStyleButton" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

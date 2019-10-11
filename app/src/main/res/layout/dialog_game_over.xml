@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_gravity="center" android:layout_width="300.0dip" android:layout_height="470.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:gravity="center" android:background="@drawable/dialog_bg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="12.0dip">
+        <TextView android:id="@+id/TextView01" android:text="@string/message_end" style="@style/mStyleDialogText" />
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="25.0dip" android:layout_above="@id/ButtonActionNul">
+            <Button android:id="@+id/ButtonRate" android:background="@drawable/button_share" android:layout_width="70.0dip" android:layout_height="70.0dip" android:drawableStart="@drawable/ic_stars" android:paddingStart="10.0dip" android:layout_marginStart="10.0dip" android:layout_marginEnd="10.0dip" />
+        </LinearLayout>
+        <Button android:textSize="18.0sp" android:textColor="@color/colorWhite" android:id="@+id/ButtonActionNul" android:background="@drawable/button" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_marginBottom="20.0dip" android:text="@string/action_reset" android:layout_alignParentBottom="true" android:layout_marginStart="45.0dip" android:layout_marginEnd="45.0dip" />
+    </RelativeLayout>
+    <Button android:id="@+id/ButtonCancel" style="@style/mStyleDialogButtonClose" />
+</RelativeLayout>

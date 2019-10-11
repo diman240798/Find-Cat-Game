@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_gravity="center" android:id="@+id/dialog_gdpr" android:layout_width="320.0dip" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:gravity="center" android:background="@drawable/dialog_bg" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="12.0dip">
+        <TextView android:id="@+id/gdpr_text" android:text="@string/gdpr_text" style="@style/mStyleDialogText" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="8.0dip" android:layout_below="@id/gdpr_text">
+            <Button android:textSize="18.0sp" android:textColor="@color/colorWhite" android:id="@+id/privacy" android:background="@drawable/button" android:layout_width="0.0dip" android:layout_height="40.0dip" android:text="@string/policy" android:layout_weight="1.0" />
+            <Button android:textSize="18.0sp" android:textColor="@color/colorWhite" android:id="@+id/submit" android:background="@drawable/button" android:layout_width="0.0dip" android:layout_height="40.0dip" android:text="@string/agree" android:layout_weight="1.0" />
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="achivki_names">
+        <item>Beginner</item>
+        <item>I just started!</item>
+        <item>Experienced</item>
+        <item>This is not the limit</item>
+        <item>Hawkeye</item>
+        <item>Super-vision</item>
+        <item>So HARDCORE!</item>
+        <item>"Unbelievable and 
+ impossible"</item>
+        <item>Unstoppable</item>
+        <item>Fastest hand on the Wild West</item>
+        <item>Who said it would be easy?</item>
+        <item>It is all?</item>
+    </string-array>
+    <string-array name="achivki_opisanie">
+        <item>Find 5 cats in a row without hints</item>
+        <item>Find 15 cats in a row without hints</item>
+        <item>Find 30 cats in a row without hints</item>
+        <item>Find 50 cats in a row without hints</item>
+        <item>Find 100 cats in a row without hints</item>
+        <item>Find 200 cats in a row without hints</item>
+        <item>Find 300 cats in a row without hints</item>
+        <item>Find 400 cats in a row without hints</item>
+        <item>Find 500 cats in a row without hints</item>
+        <item>Find a cat for 2 seconds or less</item>
+        <item>Spend 3 minutes or more in search of a cat</item>
+        <item>Сomplete the game</item>
+    </string-array>
+    <string-array name="podskazki">
+        <item>Do not abuse the bushes, they love cats</item>
+        <item>Cats love triangles</item>
+        <item>Some cats think they are chameleons</item>
+        <item>Not on the bridge</item>
+        <item>Do not look to the right</item>
+        <item>One eye looks through the bars</item>
+        <item>Cat has what need every cow</item>
+        <item>Kitty gatekeeper</item>
+        <item>In the darkness of the night, by the light of the day, I draw my attention on you!</item>
+        <item>I think that on the right side of the photo does not make sense to pay attention</item>
+        <item>It seems that someone imagines herself as a bird</item>
+        <item>Under the air cooler</item>
+        <item>Sat in the middle of branches</item>
+        <item>I think shadowing is right</item>
+        <item>Even in the bush found a suitable seat</item>
+        <item>This candlestick!</item>
+        <item>Hidden so that only visible ear and the eyes!</item>
+        <item>Whose tail is seen there? Oh, and legs too!</item>
+        <item>"Can fall on someone's head!"</item>
+        <item>Sits in the shade of a tropical tree :)</item>
+        <item>Spotted cat in the ambush!</item>
+        <item>Cats love to bask in the sun :)</item>
+        <item>Enjoying the flowers</item>
+        <item>In this ladder is very interesting border!</item>
+        <item>And this cat likes to lie in the shade!</item>
+        <item>Located on top of the fountain</item>
+        <item>Preparing to break glasses</item>
+        <item>On one of the \"ridges\"</item>
+        <item>Merged with the tree trunk</item>
+        <item>Another Sweep</item>
+        <item>Near the snow</item>
+        <item>Covered by burdock</item>
+        <item>Next to the lantern</item>
+        <item>On the crest of a wave</item>
+        <item>Highly sit, look away!</item>
+        <item>Ripples in the eyes</item>
+        <item>Cat - a climber!</item>
+        <item>Crouched on the edge of the road</item>
+        <item>Yes this is the foam blocks!</item>
+        <item>Guarding the stairs</item>
+        <item>Cat who lives on the roof</item>
+        <item>Kitty thinks he angry bird</item>
+        <item>Why all the cats are so fond of trees?</item>
+        <item>Protects the horns</item>
+        <item>I think we should see lower mugs</item>
+        <item>Cat presses close to homes</item>
+        <item>Validates the parking lot!</item>
+        <item>Sit down, all seats are free!</item>
+        <item>Orange snout peeks out from behind the orange corner!</item>
+        <item>On the high observation post!</item>
+        <item>Exploring the mysterious crop circles :)</item>
+        <item>Hid behind a bizarre trolley</item>
+        <item>Cat checks that no one broke!</item>
+        <item>Fits well, the sun does not bother!</item>
+        <item>Cat terrified of rides!</item>
+        <item>Tall ladder... The cat needs a rest...</item>
+        <item>On guard the territory!</item>
+        <item>And now get down from here?</item>
+        <item>At kitten lovely cabin!</item>
+        <item>I think you should focus on the center and discard details :)</item>
+        <item>The cat is behaving indecently in the sand!</item>
+        <item>And how could he have to climb up there?</item>
+        <item>If it were not for this site without grass, the cat would have been impossible at all to see!</item>
+        <item>What are you looking at? Get down!</item>
+        <item>You are interested in the upper part of the picture ;)</item>
+        <item>Kitty as a needle!</item>
+        <item>Everyone loves flowers! And the cat is no exception!</item>
+        <item>Cooled on the rocks</item>
+        <item>"It's amazing how the leaves are similar to his coloring..."</item>
+        <item>What a strange golden logo...</item>
+        <item>Protects vehicle</item>
+        <item>"What's that lump at the foot of the hill?"</item>
+        <item>Hiding from the rain</item>
+        <item>Tucked away in the shade</item>
+        <item>Why not take a nap in the shade?</item>
+        <item>Hiding from the heat in the shade</item>
+        <item>Merged with shadow</item>
+        <item>Wow! This is burdock!</item>
+        <item>Dirty paws</item>
+        <item>Grass is better fallen leaves</item>
+        <item>"What's the trade?!"</item>
+        <item>Sports in the foliage</item>
+        <item>"Maybe it's Santa's cat?"</item>
+        <item>Railings are made in a very interesting style...</item>
+        <item>Under the tree, but not on the ground</item>
+        <item>Hides in the shadow of vegetation</item>
+        <item>A little more than a point</item>
+        <item>Trees in pots attract cats!</item>
+        <item>High curb</item>
+        <item>Explores wooden structures</item>
+        <item>Well, the same cold in the snow, right?</item>
+        <item>Do not lie on the same ground!</item>
+        <item>As if stuck in textures :)</item>
+        <item>Cats love the bushes :)</item>
+        <item>Where else to hide, if not in the grass?</item>
+        <item>Hiding from the crime scene</item>
+        <item>Hid behind the backs!</item>
+        <item>Like to climb trees</item>
+        <item>At the very exit</item>
+        <item>Probably the sofa comfortable armrests ... Well, you understand :)</item>
+        <item>Rubs against the wall</item>
+        <item>Cats attracts furniture :)</item>
+        <item>Builds a hut of branches</item>
+        <item>Kitty guard your belongings while you can swim :)</item>
+        <item>Hides behind a pile of branches</item>
+        <item>Sit high, look far away</item>
+        <item>In the company of lovely ladies</item>
+        <item>Protects watering cans :)</item>
+        <item>Cat guard materials</item>
+        <item>Near the sun and at the same time away from it...</item>
+        <item>As a handbag, just kitty :)</item>
+        <item>Haughtily better review!</item>
+        <item>Near the place for self-admiration! :)</item>
+        <item>Interesting baskets...</item>
+        <item>Almost hhoto :)</item>
+        <item>Mirrors - a magnet for cats!</item>
+        <item>Inside</item>
+        <item>Fences protect from anyone... but not from the cats!</item>
+        <item>Big shoes - a dream for any cat!</item>
+        <item>These tracks are designed for walking</item>
+        <item>Well, when there is a shelter over their heads</item>
+        <item>Why go where the people sit?</item>
+        <item>What interesting red bushes :)</item>
+        <item>Hiding behind flowers</item>
+        <item>Was going to go. But on what?</item>
+        <item>Why are stones near the tree?</item>
+        <item>The ambush on the road</item>
+        <item>Very unusual flower bed</item>
+        <item>Keep an eye on the bike</item>
+        <item>Kitten playing with leaves</item>
+        <item>Hid high</item>
+        <item>Sand cat</item>
+        <item>Explore unusual boulder :)</item>
+        <item>Hid in the shade of the gardens</item>
+        <item>Like dandelion</item>
+        <item>This rusty thing will soon collapse</item>
+        <item>Merged as a ninja</item>
+        <item>Probably, is talking with a man</item>
+        <item>Cat - music fan :)</item>
+        <item>Cat frozen</item>
+        <item>Away from the water</item>
+        <item>Favorite place kitty ;)</item>
+        <item>Bonsai</item>
+        <item>He climbed to where the cats can not be</item>
+        <item>Looks \"around the corner\"</item>
+        <item>Fall - the best time to mask</item>
+        <item>Surrounded by porcelain :)</item>
+        <item>In the sun is hot, but the shade is good</item>
+        <item>Live well above the cafe</item>
+        <item>On the horizon</item>
+        <item>The cat is not for sale!</item>
+        <item>Cat holding a fire drill</item>
+        <item>Companionable cat</item>
+        <item>Singing serenades</item>
+        <item>Sleeping on the ground floor</item>
+        <item>Imagines himself to violets</item>
+        <item>Who cart and who the coach</item>
+        <item>Get off the table!</item>
+        <item>Over the fence</item>
+        <item>Hid under the barrel</item>
+        <item>"The darkness hunter's best friend"</item>
+        <item>Walking around the hill</item>
+        <item>Wood carving is cool</item>
+        <item>Guardian of the veranda</item>
+        <item>Auburn upon a red</item>
+        <item>Hiding in the shadows from prying eyes</item>
+        <item>Cat bypasses the territory</item>
+        <item>On the other side of the barricades</item>
+        <item>At the border</item>
+        <item>Fearless cat on the gas pipe</item>
+        <item>Ambush in the foliage</item>
+        <item>Trees are interested cats more than architecture!</item>
+        <item>In the epicenter of chaos</item>
+        <item>What are you drinking?</item>
+        <item>Come on! By the battery!</item>
+        <item>The foil on the wall? What for?</item>
+        <item>Almost lost his way</item>
+        <item>I think the cat is found in the shade</item>
+        <item>Guard of cement :)</item>
+        <item>Pots in the street cats prefer;)</item>
+        <item>ТJust getting ready to climb higher!</item>
+        <item>To the driver was not boring :)</item>
+        <item>Apparently, the cat has his own house</item>
+        <item>Everyone knows that cats like to sit on your lap</item>
+        <item>The islet of land in the concrete jungle :)</item>
+        <item>Lay over the green ;)</item>
+        <item>Takes the place of the flower</item>
+        <item>Open the door!</item>
+        <item>To breathe the air, not necessarily completely leave home!</item>
+        <item>This is a private area!</item>
+        <item>Мышкины палаты</item>
+        <item>Trimmed trees also can be considered art!</item>
+        <item>On the balcony there is no door?</item>
+        <item>Peeking around the corner</item>
+        <item>Striding vigorously from home</item>
+        <item>Inspecting the goods</item>
+        <item>Returning from a walk</item>
+        <item>Lay near the support structure</item>
+        <item>Merged with grass like a ninja :)</item>
+        <item>Checks the quality of support</item>
+        <item>As the star of the Christmas tree :)</item>
+        <item>Here he is, outside the cabin! Just a little bit more to the left! Oh, right! Well, you understand :)</item>
+        <item>This cat is clearly interested in Parkour!</item>
+        <item>Bright on the bright, red on red!</item>
+        <item>Intends to overturn the hanger!</item>
+        <item>Perhaps cat under the rubble</item>
+        <item>Another attempt to pass himself off as a bird from the Angry Birds :)</item>
+        <item>Lay down at the entrance</item>
+        <item>Instead of flowers are located</item>
+        <item>Between the slats</item>
+        <item>Play a staring :)</item>
+        <item>Sat down in the tropics :)</item>
+        <item>In jail (in a figurative sense)</item>
+        <item>The carpet is always held in high esteem! Even the cats!</item>
+        <item>Cats liking so much greenery! Or maybe just climbed up there, who knows?</item>
+        <item>I can not imagine how they are so deftly at a height?</item>
+        <item>Once high here first floor</item>
+        <item>Almost made ??it to the flower beds</item>
+        <item>The sun almost made ??it to cat!</item>
+        <item>Among the stones is a fluffy monolith :)</item>
+        <item>I hope that he just played in the sand</item>
+        <item>Waiting for the waiter</item>
+        <item>Note the fence</item>
+        <item>In the middle of the ridge :)</item>
+        <item>Not on the ground is the same walk</item>
+        <item>In such a cold want to sit at home</item>
+        <item>Under the cover</item>
+        <item>Above pots</item>
+        <item>Sat down in the green island</item>
+        <item>"Oh, that's the toilet :)"</item>
+        <item>Because branches can hardly see!</item>
+        <item>Near the window</item>
+        <item>Why such a high bar stools?</item>
+        <item>On the edge ...</item>
+        <item>Climbed high, mischievous</item>
+        <item>Cat room on the third floor</item>
+        <item>Not allowed inside - no problem! Still go!</item>
+        <item>You also notice that cats like bushes?</item>
+        <item>Do not crush the cat!</item>
+        <item>Masked in florets</item>
+        <item>Doing dark deeds under the tree</item>
+        <item>On the second tier</item>
+        <item>Flowers attract cats!</item>
+        <item>Above the Buddha</item>
+        <item>Ready to hit the road</item>
+        <item>On the average of the picture</item>
+        <item>Well, that is a bridge. And that would have had to swim...</item>
+        <item>Awaits guests</item>
+        <item>What is not a decoration?</item>
+        <item>How much snow on the roof</item>
+        <item>New Year cat where to go, if not to the tree?</item>
+        <item>This is not Russian Post</item>
+        <item>Tired of this tree, Im leaving</item>
+        <item>May be under the tree already have gifts?</item>
+        <item>Slippery roof! Would not fall!</item>
+        <item>Someone will get fluffy gift!</item>
+        <item>Like a squirrel, cat only</item>
+        <item>Behind the glass</item>
+        <item>Beautiful candle, right?</item>
+        <item>Penguins, bears and drifts. What else need to be happy?</item>
+        <item>Island green during frost</item>
+        <item>Cats are far from architecture</item>
+        <item>Hides gifts</item>
+        <item>Hot there, it is better in the shade</item>
+        <item>Surely going to steal the costume: 3</item>
+        <item>Thats balls! I would also interested</item>
+        <item>Sat down on the bank</item>
+        <item>This fence is similar to skittles</item>
+        <item>At one level with a lantern</item>
+        <item>A golden head! Wow!?</item>
+        <item>In the midst of the snow kingdom</item>
+        <item>The only decoration of this tree - a cat!</item>
+        <item>Hung clothes! There is nowhere to go!</item>
+        <item>In winter, the fountain is not dangerous!.</item>
+        <item>Through an archway into a warm home</item>
+        <item>Triumph has not yet started and the table cat just nothing to do!</item>
+        <item>Freezes tail and admires the Christmas tree</item>
+        <item>And we dream of grass near the house...</item>
+        <item>Probably hiding gifts :)</item>
+        <item>Tree in the foreground, while the cat...</item>
+        <item>At the entrance</item>
+        <item>Over the spot where hang socks :)</item>
+        <item>Santa-cat guard your gifts :)</item>
+        <item>Everyone looks at the tree, and a lonely tree close nobody pays eyes...</item>
+        <item>Located on the balcony</item>
+        <item>From the height of spying grandfather. Suddenly, the cat will get something? :)</item>
+        <item>Did not take the camera focus on the cat :(</item>
+        <item>He sat down next to the \"scene\"</item>
+        <item>Rustling!</item>
+        <item>For cats there are no barriers</item>
+        <item>Stroll along the pots</item>
+        <item>Housecat</item>
+        <item>Presses logs</item>
+        <item>Very unusual figure of deer :) It all interested!</item>
+        <item>Basket - almost a box!</item>
+        <item>Suddenly something went downstairs? For this you can to guard</item>
+        <item>Before a table</item>
+        <item>Groats is not interested. Get out :)</item>
+        <item>Tucked away in the wood</item>
+        <item>Merged with leaves like a wild hunter.</item>
+        <item>Peeking between slats</item>
+        <item>Probably hiding in the flower bed and did not notice that swam.</item>
+        <item>At the corner, but not on asphalt!</item>
+        <item>Cats know how to beat the bell?</item>
+        <item>Not yet in the sun, but not in the shade</item>
+        <item>On the street, but in the house</item>
+        <item>High, but not as much as it could</item>
+        <item>At the helm</item>
+        <item>Stone - the best shelter. Do not sweep of weapons :)</item>
+        <item>Dangerous to let a cat to your laptop!</item>
+        <item>Climbed the stairs to clearly</item>
+        <item>"In it's place could very well be a statue"</item>
+        <item>Perhaps the birds catches</item>
+        <item>Where people do not interfere</item>
+        <item>Hid in the \"jungle\"</item>
+        <item>Baby cat</item>
+        <item>Face control</item>
+        <item>Not near the car. Just approaching :)</item>
+        <item>On the floor</item>
+        <item>Surrounded by a soft surface</item>
+        <item>You can not go there! Someone will be punished!</item>
+        <item>Column</item>
+        <item>The greatest work of art</item>
+        <item>Surrounded by light</item>
+        <item>Well, who among us does not like to go out on the balcony?</item>
+        <item>Army cat</item>
+        <item>Lies among the gifts</item>
+        <item>Dancer in red something frightened kitten!</item>
+        <item>Fluffy surfer</item>
+        <item>On guard the entrance to the house</item>
+        <item>Oh oh! Now crush!</item>
+        <item>Cat maneuvering between the legs of Asians :)</item>
+        <item>Since merged with a tree that does not distinguish :)</item>
+        <item>Ginger cat basking in the sun</item>
+        <item>Under one of the tables, which have a salt shaker</item>
+        <item>Voyage of the vertices</item>
+        <item>Ginger gift among gifts</item>
+        <item>Guards mug :)</item>
+        <item>What firewood is not a chair?..</item>
+        <item>Cat hiding in the depths of a vegetarian paradise</item>
+        <item>Preparing for the flight to an unknown bowl :)</item>
+        <item>Camouflaged among the figures</item>
+        <item>Near people, but not in the thick of things</item>
+        <item>Not in the sun. Same hot!</item>
+        <item>Amateur to climb higher</item>
+        <item>Once crossed over to the other side O_o</item>
+        <item>Kitty - soundman!</item>
+        <item>Cats are able to blend in with the same objects... there trees or stones...</item>
+        <item>Cast off!</item>
+        <item>Fence to match the cat</item>
+        <item>Ginger on a red</item>
+        <item>He sat down at the garage</item>
+        <item>Auburn roofer</item>
+        <item>Almost climber</item>
+        <item>Illusion! Either the floor, or on a counter</item>
+        <item>Rubs underfoot</item>
+        <item>Preparing to fly back and beat this splendor :(</item>
+        <item>From the floor watching, so that no one stole it!</item>
+        <item>On the left bank</item>
+        <item>Comfortable to sit on top! You can pull off anything!</item>
+        <item>With high position ensures that nobody bodykit</item>
+        <item>Relaxing, lying on a product</item>
+        <item>Going to get on the table</item>
+        <item>Cyclist</item>
+        <item>On the other side</item>
+        <item>between the coasts</item>
+        <item>In the midst of a black and white girlfriends</item>
+        <item>Red Cat merged with ginger :)</item>
+        <item>Elephants - this is unusual</item>
+        <item>Border guard (and what does not border?)</item>
+        <item>The soul on the street, but the body at home</item>
+        <item>Sat down on the dry</item>
+        <item>Greens. Cats need greens :)</item>
+        <item>Cat not for sale :)</item>
+        <item>Interestingly, while cats need 4 skis?</item>
+        <item>Examine packaging</item>
+        <item>For these roofs especially not run</item>
+        <item>In the spotlight</item>
+        <item>Only the cat can walk indifferently past such an interesting construction (Not on the tile)</item>
+        <item>On a shelf Ураган? Cat is already there!</item>
+        <item>See the inscription? So the cat beside pressed gravity :)</item>
+        <item>Unusual zebra</item>
+        <item>Geese, geese, gha-gha-gha!</item>
+        <item>Frightening sight below. Just about everything will overturn!</item>
+        <item>Peeking out from behind a rack</item>
+        <item>Left the house</item>
+        <item>Predator took an advantageous position :)</item>
+        <item>Grass grows from home!?</item>
+        <item>Already exchanged money, chooses a newspaper :)</item>
+        <item>Climb higher</item>
+        <item>Sweep?</item>
+        <item>Sentry</item>
+        <item>"Apparently, it's climbed through the window"</item>
+        <item>Chased a cat with stone and sat down, Im in shock!</item>
+        <item>Got up on a narrow path</item>
+        <item>Hid behind a stone</item>
+        <item>In the warmth</item>
+        <item>Sitting on the same subject that girl</item>
+        <item>That same feeling when a cat rubs against legs: 3</item>
+        <item>Tags tree, scoundrel!</item>
+        <item>What kind of white lump? Slippers under the bed or...</item>
+        <item>You do not want to sit down?</item>
+        <item>Confidently moving on a track</item>
+        <item>Reading a sign :)</item>
+        <item>Cats arrived</item>
+        <item>The cat, which sits under the fence</item>
+        <item>He wants to take the book and put in the closet</item>
+        <item>Hides behind the foot</item>
+        <item>Stomp to dig up the ground</item>
+        <item>Sadness near the wall</item>
+        <item>Gardener and his wheelbarrow</item>
+        <item>Can not overcome the bars :(</item>
+        <item>Sneaking along the wall</item>
+        <item>It is urgent to get out! And why he got there?</item>
+        <item>Keep an eye on winning</item>
+        <item>Ready to grab his legs! Just sit ...</item>
+        <item>Preparing for winter</item>
+        <item>Preparing to leap of faith</item>
+        <item>Darkness, by the way, a friend and cats, too</item>
+        <item>And he is not afraid to get wet because</item>
+        <item>Sneaks under a bush</item>
+        <item>Under bear. I did not expect? :)</item>
+        <item>Selects on which to lie down</item>
+        <item>Abask</item>
+        <item>We take a walk?</item>
+        <item>White and fluffy</item>
+        <item>Apparently, on the bench</item>
+        <item>Building in good paws</item>
+        <item>Over the hill</item>
+        <item>"It's getting under your feet!"</item>
+        <item>Among the greenery, but not on the ground</item>
+        <item>Chimney sweep</item>
+        <item>With interest on top</item>
+        <item>This cat, surprisingly, does not like to climb high :)</item>
+        <item>On soft</item>
+        <item>Shaggy gift</item>
+        <item>It peeping from behind mistress</item>
+        <item>Let the cat</item>
+        <item>Spy on the balcony</item>
+        <item>Lay down under the table</item>
+        <item>Cover up the curtain</item>
+        <item>What is not a decoration?</item>
+        <item>The cat, which likes to walk on the roofs</item>
+        <item>Below employee</item>
+        <item>Lost among the boxes</item>
+        <item>Climb firewood</item>
+        <item>Behind the jungle</item>
+        <item>Frightened deer and hid under the boards</item>
+        <item>Peeking out of a bucket ...</item>
+        <item>The darkness of the other cats</item>
+        <item>He sat down with \"visor\"</item>
+        <item>"Come on, I'll hold"</item>
+        <item>Lay down under a tree</item>
+        <item>Stroll along the pots</item>
+        <item>Cats arrived! On the roof O_o</item>
+        <item>Highly sitting ... and wants even higher!</item>
+        <item>Peeking through the pattern</item>
+        <item>Peeking under a large flower :)</item>
+        <item>Way through snowdrifts</item>
+        <item>I lay down on the grass, hiding behind a log. Severe cat :)</item>
+        <item>Under pots :)</item>
+        <item>Under the little hand :)</item>
+        <item>Checks roof</item>
+        <item>Peeking around porch</item>
+        <item>Brazen looking through fence</item>
+        <item>Elegant restaurant with a cool name</item>
+        <item>Fan guards</item>
+        <item>It merged with the tree</item>
+        <item>On the floor</item>
+        <item>He sat down on flowers</item>
+        <item>The cat ate too much could not leave on the table</item>
+        <item>Explore the ruins</item>
+        <item>He sat down on the royal chair :)</item>
+        <item>Just released</item>
+        <item>Near shutters</item>
+        <item>Towards the sun</item>
+        <item>Sat down on a small column</item>
+        <item>Union Square</item>
+        <item>Ascend or descend, it is not clear</item>
+        <item>The warmth and comfort :)</item>
+        <item>Sinks in the snow near the bushes!</item>
+        <item>His eyes glow like a light bulb garlands</item>
+        <item>Hiding behind the high flowers</item>
+        <item>Cats have arrived!</item>
+        <item>Before the music center</item>
+        <item>Wow! What a big boulder!</item>
+        <item>At the very top step</item>
+        <item>Above the sun!</item>
+        <item>It peeking around the corner</item>
+        <item>Inside the Illuminati symbol</item>
+        <item>I warmed on the stone</item>
+        <item>Black cat on black harnesses :)</item>
+        <item>Lying on the marble</item>
+        <item>What is he doing there in the land</item>
+        <item>It merged with the foliage</item>
+        <item>Middle path</item>
+        <item>Under graffiti :)</item>
+        <item>Propped column</item>
+        <item>Tired prop column</item>
+        <item>Too many columns :)</item>
+        <item>Next to the smaller pond</item>
+        <item>Pretend bag</item>
+        <item>He sat down by the window</item>
+        <item>Next to the bucket</item>
+        <item>Tucked away in a cabbage</item>
+        <item>Satellite cat</item>
+        <item>Posing next to a woman :)</item>
+        <item>The unusual design of the counter</item>
+        <item>Climb higher :)</item>
+        <item>The cat down and something to think...</item>
+        <item>Begged the cook to eat :)</item>
+        <item>The beautiful statue, beautiful</item>
+        <item>What is the group photo can do without a cat?</item>
+        <item>Tucked away in the shade</item>
+        <item>Master of rubbish</item>
+        <item>On one level, with a pan</item>
+        <item>Indignantly it peeping from behind a tree cut down</item>
+        <item>Near the wall</item>
+        <item>It turns black cat can be merged with a green O_o</item>
+        <item>Not on the street</item>
+        <item>Gracefully located on a tree</item>
+        <item>In the center of events</item>
+        <item>Between vines :)</item>
+        <item>Near the \"columns\" :)</item>
+        <item>He sat down near the wall</item>
+        <item>Explores the black vessel</item>
+        <item>Tin-plate</item>
+        <item>In the shadow of stone</item>
+        <item>People go through the door...</item>
+        <item>Sit down, do not be shy</item>
+        <item>Protects car</item>
+        <item>Cat-climber</item>
+        <item>Near the \"star\"...</item>
+        <item>In the shadow of a tropical giant</item>
+        <item>Lying on a log</item>
+        <item>Bypass area</item>
+        <item>Tucked away in the shadow of ventilation</item>
+        <item>Get out! My wood!</item>
+        <item>Brick Mountain King</item>
+        <item>Check the roof</item>
+        <item>Steals along the house</item>
+        <item>On fire wood</item>
+        <item>Special, cat ladder</item>
+        <item>Gray cat merges with the locality</item>
+        <item>Behind gnome</item>
+        <item>The main thing that would not have dropped the jar</item>
+        <item>Basket dropped... Oh, this cat...</item>
+        <item>Checks clutch</item>
+        <item>Near the hostess</item>
+        <item>Controls laying foundation</item>
+        <item>On the ground</item>
+        <item>What is there under the tree?</item>
+        <item>Unusual pot from the stump, is not it?</item>
+        <item>To the right of the trail</item>
+        <item>On the second floor</item>
+        <item>Beautiful sculpture</item>
+        <item>He hides behind a pot</item>
+        <item>Learning water tower</item>
+        <item>Cat in the center of the world</item>
+        <item>Warmed on the rocks</item>
+        <item>How he got there, no one knows</item>
+        <item>Checks roof fasteners</item>
+        <item>Captain Cat</item>
+        <item>Cat-pot :)</item>
+        <item>Made a snowman and is glad</item>
+        <item>Above seen better</item>
+        <item>Gloomy owner of the barn</item>
+        <item>Not as high as usual, but also on the ground does not come down</item>
+        <item>Will take me with you?</item>
+        <item>Cats love to climb trees!</item>
+        <item>There, where the cats is strictly prohibited</item>
+        <item>Above flowers</item>
+        <item>Framed back the sun</item>
+        <item>From a safe distance watching doghouse</item>
+        <item>On the royal bed</item>
+        <item>Dead ahead</item>
+        <item>This is a boulder!</item>
+        <item>On guard of building materials!</item>
+        <item>He prefers to manage the process from a safe distance</item>
+        <item>Look out for the bus</item>
+        <item>Looks out the window :)</item>
+        <item>Helps to lay a bunch of leaves in the same</item>
+        <item>Found \"unusual\" box :)</item>
+        <item>Lay down on the bags</item>
+        <item>Greets on the threshold :)</item>
+        <item>Strong and beautiful! Just as ancient columns!</item>
+        <item>Ready to welcome guests</item>
+        <item>All Rock!</item>
+        <item>Hid under the roof</item>
+        <item>Clung to the wall</item>
+        <item>In search of the desired container</item>
+    </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:background="@drawable/catbg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:background="@drawable/text_bg" android:padding="30.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <RadioGroup android:layout_gravity="center_horizontal" android:id="@id/langRg" android:layout_width="200.0dip" android:layout_height="wrap_content">
+            <RadioButton android:textSize="26.0sp" android:textColor="@color/colorText" android:id="@id/radioEng" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="English" android:hapticFeedbackEnabled="true" />
+            <RadioButton android:textSize="26.0sp" android:textColor="@color/colorText" android:id="@id/radioRu" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Русский" android:hapticFeedbackEnabled="true" />
+            <RadioButton android:textSize="26.0sp" android:textColor="@color/colorText" android:id="@id/radioDe" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Deutsch" android:hapticFeedbackEnabled="true" />
+            <RadioButton android:textSize="26.0sp" android:textColor="@color/colorText" android:id="@id/radioFr" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Français" android:hapticFeedbackEnabled="true" />
+            <RadioButton android:textSize="26.0sp" android:textColor="@color/colorText" android:id="@id/radioZh" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="中国" android:hapticFeedbackEnabled="true" />
+            <RadioButton android:textSize="26.0sp" android:textColor="@color/colorText" android:id="@id/radioJa" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="日本語" android:hapticFeedbackEnabled="true" />
+            <RadioButton android:textSize="26.0sp" android:textColor="@color/colorText" android:id="@id/radioKo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="한국어" android:hapticFeedbackEnabled="true" />
+        </RadioGroup>
+    </LinearLayout>
+</LinearLayout>

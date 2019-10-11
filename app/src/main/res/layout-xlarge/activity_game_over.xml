@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:background="@drawable/catbg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView android:textSize="36.0sp" android:id="@id/TextView01" android:layout_marginLeft="16.0dip" android:layout_marginTop="28.0dip" android:layout_marginRight="16.0dip" android:layout_marginBottom="28.0dip" android:text="@string/game_over" style="@style/mStyleText" />
+    <ImageView android:id="@id/catImage" android:layout_width="wrap_content" android:layout_height="0.0dip" android:layout_weight="1.0" app:srcCompat="@drawable/catimmage" />
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="12.0dip" android:layout_marginTop="28.0dip" android:layout_marginRight="12.0dip" android:layout_marginBottom="28.0dip">
+        <TextView android:textSize="26.0sp" android:id="@id/TextView02" android:layout_margin="10.0dip" android:text="@string/game_over_text" style="@style/mStyleTextXL" />
+        <LinearLayout style="@style/mStyleLinearLayoutWeightSumXL">
+            <LinearLayout style="@style/mStyleLinearLayout_weightXL">
+                <Button android:id="@id/ButtonActionReset" android:text="@string/action_reset" android:drawableLeft="@drawable/ic_refresh" style="@style/mStyleButtonXL" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout style="@style/mStyleLinearLayoutWeightSumXL">
+            <LinearLayout style="@style/mStyleLinearLayout_weightXL">
+                <Button android:id="@id/ButtonRate" android:text="@string/share" android:drawableLeft="@drawable/ic_share" style="@style/mStyleButtonXL" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
