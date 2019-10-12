@@ -15,11 +15,9 @@
     <string name="cheat_help">Hint</string>
     <string name="cheat_message">Cats are the born masters of disguise! Do you want to take a hint for 10 points? You have %d</string>
     <string name="cheat_message_again">Cats are the born masters of disguise! Do you want to look at the hint again?</string>
-    <string name="fiandacat2">Other games</string>
+    <string name="fiandacat2">Do u like cats?</string>
     <string name="fmessage">Thank you for choosing our application! As a token of our gratitude do give you 100 points, which can be spent on hints. As already mentioned, our application will not contain in-game purchases! Obtain points can only be fair game. :) Read more in the section Information.</string>
-    <string name="game1">Find a Cat 2</string>
-    <string name="game2">Find a Cat 3</string>
-    <string name="game_link">https://play.google.com/store/apps/details?id=srsdt1.findacat</string>
+    <string name="game1">Continue Enjoying</string>
     <string name="game_over">The game is over!</string>
     <string name="game_over_text">"Oops, it seems the cats are over.
 Good job"</string>
@@ -40,7 +38,7 @@ You had to perform %d clicks on the screen to find all masters of disguise.
 You can reset the progress by clicking the Reset button bellow and look for cats again! Have fun!"</string>
     <string name="not_coins">Not enough points :(</string>
     <string name="nul_success">Success! You can find cats again.</string>
-    <string name="other_message">We offer you to play in other parts of our game :)</string>
+    <string name="other_message">We love cats and hope you will enjoy our game :)</string>
     <string name="permission_message">Please allow the game to access the memory of your device! Without this, we will not be able to attach a card of achievement!</string>
     <string name="policy">Policy</string>
     <string name="regular_notification">Cats waiting you!</string>
@@ -54,7 +52,7 @@ You can reset the progress by clicking the Reset button bellow and look for cats
     <string name="sure">Are you sure?</string>
     <string name="timer">You found a cat for:</string>
     <string name="tw_error">Something went wrong :(</string>
-    <string name="tw_post">I like to search the cats in the game Find a cat for Android! #FindACat https://play.google.com/store/apps/details?id=srsdt1.findacat</string>
+    <string name="tw_post">I like to search the cats in the game Find a cat for Android! #FindACat</string>
     <string name="unlocked">New achievement unlocked!</string>
     <string name="vibro_button_off">Vibro</string>
     <string name="vibro_button_on">Vibro</string>

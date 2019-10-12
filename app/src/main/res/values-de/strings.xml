@@ -50,11 +50,9 @@
     <string name="common_open_on_phone">Auf Smartphone öffnen</string>
     <string name="common_signin_button_text">Anmelden</string>
     <string name="common_signin_button_text_long">Über Google anmelden</string>
-    <string name="fiandacat2">Andere Spiele</string>
+    <string name="fiandacat2">Katzen genießen?</string>
     <string name="fmessage">Danke, dass Sie unsere applikation gewählt haben! Als Zeichnen der Dankbarkeit geben wie Ihnen +100 Punkte, die Sie für Vorsagen benutzen können. Wie es schon gesagt wurde, enthält unsere Applikation keine Einkäufe! Man kann nur durch Ehrenspiel Punkte bekommen. :) Ausfürlicher im Teil Information.</string>
-    <string name="game1">Finden Sie Cat 2</string>
-    <string name="game2">Finden Sie Cat 3</string>
-    <string name="game_link">https://play.google.com/store/apps/details?id=srsdt1.findacat</string>
+    <string name="game1">Weiter Genießen</string>
     <string name="game_over">Das Spiel ist vorbei!</string>
     <string name="game_over_text">"Ups, es scheint, die Katzen sind vorbei.
 Gut gemacht"</string>
@@ -76,7 +74,7 @@ Du musst %d Klicks auf dem Bildschirm durchführen, um alle Maskierungsmeister z
 Sie können den Fortschritt zurücksetzen, indem Sie auf den Reset-Button klicken und wieder nach Katzen suchen!"</string>
     <string name="not_coins">Nicht genug Punkte :(</string>
     <string name="nul_success">Erfolgreich! Sie können nach Katern von Anfang an suchen.</string>
-    <string name="other_message">Angebot in anderen Teilen des Spiels zu spielen :)</string>
+    <string name="other_message">Wir lieben Katzen und hoffen, dass Sie unser Spiel genießen :)</string>
     <string name="permission_message">Bitte erlauben Sie dem Spiel, auf den Speicher Ihres Gerätes zuzugreifen! Ohne diese werden wir nicht in der Lage sein, eine Karte der Leistung zu befestigen!</string>
     <string name="policy">Policy</string>
     <string name="regular_notification">Katzen warten auf dich!</string>
@@ -99,7 +97,7 @@ Sie können den Fortschritt zurücksetzen, indem Sie auf den Reset-Button klicke
     <string name="sure">Sind Sie sicher?</string>
     <string name="timer">Sie fand den Kater in:</string>
     <string name="tw_error">Something went wrong :(</string>
-    <string name="tw_post">Mir gefällt es nach Katern im Spiel Finden Sie einen Kater für Android zu suchen! #Finden Sie einen Kater https://play.google.com/store/apps/details?id=srsdt1.findacat</string>
+    <string name="tw_post">Mir gefällt es nach Katern im Spiel Finden Sie einen Kater für Android zu suchen! #Finden Sie einen Kater</string>
     <string name="unlocked">Ein neuer Erfolg ist geöffnet!</string>
     <string name="vibro_button_off">Vibration</string>
     <string name="vibro_button_on">Vibration</string>

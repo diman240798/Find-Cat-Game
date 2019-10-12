@@ -50,11 +50,9 @@
     <string name="common_open_on_phone">Адкрыць на тэлефоне</string>
     <string name="common_signin_button_text">Увайсцi</string>
     <string name="common_signin_button_text_long">Увайсці праз Google</string>
-    <string name="fiandacat2">Другие игры</string>
+    <string name="fiandacat2">Любите кошек?</string>
     <string name="fmessage">Спасибо, что выбрали наше приложение! В знак нашей благодарности начисляем Вам +100 баллов, которые можно тратить на подсказки. Как уже говорилось, наше приложение не будет содержать внутриигровых покупок! Добыть баллы можно только честной игрой. :) Подробнее в разделе Информация.</string>
-    <string name="game1">Найди кота 2</string>
-    <string name="game2">Найди кота 3</string>
-    <string name="game_link">https://play.google.com/store/apps/details?id=srsdt1.findacat&amp;hl=ru</string>
+    <string name="game1">Продолжить Наслаждаться</string>
     <string name="game_over">Игра завершена!</string>
     <string name="game_over_text">"Упс, кажется котики закончились.
 Отличная работа!"</string>
@@ -76,7 +74,7 @@
 Вы можете сбросить прогресс нажав кнопку Начать заново и искать котиков заново!"</string>
     <string name="not_coins">У Вас недостаточно бонусных баллов</string>
     <string name="nul_success">Успешно! Можете искать котиков заново.</string>
-    <string name="other_message">Предлагаем Вам поиграть в другие части нашей игры!</string>
+    <string name="other_message">Мы любим кошек и надеемся, что вам понравится наша игра!</string>
     <string name="permission_message">Пожалуйста, разрешите игре обращаться к памяти Вашего устройства! Без этого мы не сможем приложить карточку достижения!</string>
     <string name="policy">Политика</string>
     <string name="regular_notification">Давно не виделись! Котики ждут тебя!</string>
@@ -99,7 +97,7 @@
     <string name="sure">Вы уверены?</string>
     <string name="timer">Вы нашли кота за:</string>
     <string name="tw_error">Что-то пошло не так :(</string>
-    <string name="tw_post">Мне нравится искать котов в игре Найди кота для Android! #НайдиКота https://play.google.com/store/apps/details?id=srsdt1.findacat</string>
+    <string name="tw_post">Мне нравится искать котов в игре Найди кота для Android! #НайдиКота</string>
     <string name="unlocked">Получено достижение!</string>
     <string name="vibro_button_off">Вибрация</string>
     <string name="vibro_button_on">Вибрация</string>

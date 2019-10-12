@@ -50,11 +50,9 @@
     <string name="common_open_on_phone">스마트폰에서 열기</string>
     <string name="common_signin_button_text">로그인</string>
     <string name="common_signin_button_text_long">Google 계정으로 로그인</string>
-    <string name="fiandacat2">게임의 다른 부분들</string>
+    <string name="fiandacat2">고양이를 즐길 수?</string>
     <string name="fmessage">우리의 신청서를 선택해 주셔서 감사합니다! 감사의 표시로 100 포인트를 청구하며 도움말에 대해 지출 할 수 있습니다. 이미 언급했듯이, 우리 애플리케이션에는 게임 내 구매가 포함되어 있지 않습니다! 공정한 플레이로만 점수를 얻을 수 있습니다. :) 자세한 내용은 정보섹션을 참조하십시오.</string>
-    <string name="game1">고양이 2 찾기</string>
-    <string name="game2">고양이 3 찾기</string>
-    <string name="game_link">https://play.google.com/store/apps/details?id=srsdt1.findacat&amp;hl=ru</string>
+    <string name="game1">계속 즐기기</string>
     <string name="game_over">게임은 끝났다!</string>
     <string name="game_over_text">"죄송합니다, 고양이는 끝났습니다.
 잘 했어"</string>
@@ -76,7 +74,7 @@
 재설정을 클릭하여 물개를 다시 검색하여 진행 상황을 재설정 할 수 있습니다!"</string>
     <string name="not_coins">충분한 보너스 포인트가 없습니다.</string>
     <string name="nul_success">성공적으로! 물개를 다시 찾을 수 있습니다.</string>
-    <string name="other_message">게임의 다른 부분을 연주 해 보시길 바랍니다 :)</string>
+    <string name="other_message">우리는 고양이를 사랑하고 당신이 우리의 게임을 즐길 수 있기를 바랍니다 :)</string>
     <string name="permission_message">게임이 기기의 메모리에 액세스하도록하십시오! 이것이 없으면 성취 기록 카드를 첨부 할 수 없습니다!</string>
     <string name="policy">개인 정보 정책</string>
     <string name="regular_notification">고양이가 너를 기다리고있어!</string>
@@ -99,7 +97,7 @@
     <string name="sure">괜찮은거야?</string>
     <string name="timer">너 고양이 발견 :</string>
     <string name="tw_error">문제가 발생했습니다 :(</string>
-    <string name="tw_post">나는 게임에서 고양이를 찾고 싶다. 안드로이드를위한 고양이 찾기! #고양이를찾아라. https://play.google.com/store/apps/details?id=srsdt1.findacat</string>
+    <string name="tw_post">나는 게임에서 고양이를 찾고 싶다. 안드로이드를위한 고양이 찾기! #고양이를찾아라.</string>
     <string name="unlocked">새로운 업적이 열립니다!</string>
     <string name="vibro_button_off">진동 스위치</string>
     <string name="vibro_button_on">진동 스위치</string>

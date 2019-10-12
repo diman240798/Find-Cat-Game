@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <android.support.v7.widget.RecyclerView android:id="@+id/my_ach_rv" android:background="@drawable/catbg" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+    <android.support.v7.widget.RecyclerView
+            android:id="@+id/my_ach_rv"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@drawable/catbg"
+            android:scrollbars="vertical" />
 </LinearLayout>

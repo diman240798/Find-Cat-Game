@@ -50,11 +50,9 @@
     <string name="common_open_on_phone">スマートフォンで開く</string>
     <string name="common_signin_button_text">ログイン</string>
     <string name="common_signin_button_text_long">Googleにログイン</string>
-    <string name="fiandacat2">ゲームの他の部分</string>
+    <string name="fiandacat2">猫を楽しむ？</string>
     <string name="fmessage">アプリケーションをご利用いただきありがとうございます。 私たちは感謝の気持ちとして、100ポイントを請求し、ヒントに費やすことができます。 すでに述べたように、私たちのアプリケーションにはゲーム内での購入は含まれません！ フェアプレーでのみ得点を得ることができます。 :)詳細は「情報」セクションを参照してください。</string>
-    <string name="game1">猫2を見つける</string>
-    <string name="game2">猫3を見つける</string>
-    <string name="game_link">https://play.google.com/store/apps/details?id=srsdt1.findacat&amp;hl=ru</string>
+    <string name="game1">楽しみ続ける</string>
     <string name="game_over">ゲームは終りだ！</string>
     <string name="game_over_text">"おっと、それは猫が終わったようです。
 よくやった"</string>
@@ -76,7 +74,7 @@
 [リセット]をクリックしてシールを再度検索して、進行状況をリセットすることができます。"</string>
     <string name="not_coins">ボーナスポイントが足りません</string>
     <string name="nul_success">成功しました！ あなたはシールをもう一度探すことができます。</string>
-    <string name="other_message">ゲームの他の部分をプレイすることをお勧めします:)</string>
+    <string name="other_message">私の愛猫と未来への夢と希望当社のゲーム :)</string>
     <string name="permission_message">ゲームがあなたのデバイスのメモリにアクセスできるようにしてください！ これがなければ、成果のカードを添付することはできません！</string>
     <string name="policy">ポリシーy</string>
     <string name="regular_notification">あなたを待っている猫!</string>
@@ -99,7 +97,7 @@
     <string name="sure">本当ですか？</string>
     <string name="timer">あなたは猫を見つけました：</string>
     <string name="tw_error">何かが間違っていた:(</string>
-    <string name="tw_post">私はゲームの中で猫を探しているのが好きです! #猫を探す https://play.google.com/store/apps/details?id=srsdt1.findacat</string>
+    <string name="tw_post">私はゲームの中で猫を探しているのが好きです! #猫を探す</string>
     <string name="unlocked">新しい成果が開きました</string>
     <string name="vibro_button_off">振動</string>
     <string name="vibro_button_on">振動</string>

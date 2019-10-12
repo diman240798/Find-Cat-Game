@@ -104,7 +104,7 @@ public class AchievementsActivity extends Activity {
         if (!z) {
             return str;
         }
-        return str + "\n" + getString(R.string.game_link);
+        return str + "\n" + "Add Url Here";
     }
 
     public void onRequestPermissionsResult(int i, @NonNull String[] strArr, @NonNull int[] iArr) {

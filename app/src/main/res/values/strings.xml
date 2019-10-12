@@ -66,11 +66,9 @@
     <string name="common_open_on_phone">Open on phone</string>
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
-    <string name="fiandacat2">Other games</string>
+    <string name="fiandacat2">Do u like cats?</string>
     <string name="fmessage">Thank you for choosing our application! As a token of our gratitude do give you 100 points, which can be spent on hints. As already mentioned, our application will not contain in-game purchases! Obtain points can only be fair game. :) Read more in the section Information.</string>
-    <string name="game1">Find a Cat 2</string>
-    <string name="game2">Find a Cat 3</string>
-    <string name="game_link">https://play.google.com/store/apps/details?id=srsdt1.findacat</string>
+    <string name="game1">Continue Enjoying</string>
     <string name="game_over">The game is over!</string>
     <string name="game_over_text">"Oops, it seems the cats are over.
 Good job"</string>
@@ -92,7 +90,7 @@ You had to perform %d clicks on the screen to find all masters of disguise.
 You can reset the progress by clicking the Reset button bellow and look for cats again! Have fun!"</string>
     <string name="not_coins">Not enough points :(</string>
     <string name="nul_success">Success! You can find cats again.</string>
-    <string name="other_message">We offer you to play in other parts of our game :)</string>
+    <string name="other_message">We love cats and hope you will enjoy our game :)</string>
     <string name="password_toggle_content_description">Toggle password visibility</string>
     <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
@@ -120,7 +118,7 @@ You can reset the progress by clicking the Reset button bellow and look for cats
     <string name="sure">Are you sure?</string>
     <string name="timer">You found a cat for:</string>
     <string name="tw_error">Something went wrong :(</string>
-    <string name="tw_post">I like to search the cats in the game Find a cat for Android! #FindACat https://play.google.com/store/apps/details?id=srsdt1.findacat</string>
+    <string name="tw_post">I like to search the cats in the game Find a cat for Android! #FindACat</string>
     <string name="unlocked">New achievement unlocked!</string>
     <string name="vibro_button_off">Vibro</string>
     <string name="vibro_button_on">Vibro</string>

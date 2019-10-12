@@ -7,7 +7,6 @@ import android.content.pm.ActivityInfo;
 import android.graphics.BitmapFactory;
 import android.graphics.Color;
 import android.graphics.drawable.Drawable;
-import android.graphics.drawable.GradientDrawable;
 import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
@@ -36,7 +35,6 @@ import com.nanicky.devteam.findcat.utils.GraphicUtils;
 import es.dmoral.toasty.Toasty;
 import srsdt1.findacat.R;
 
-import java.util.HashMap;
 import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
@@ -183,31 +181,12 @@ public class MainActivity extends AppCompatActivity {
         }
         cancelableDialog.setContentView(R.layout.dialog_other_games);
         ((TextView) cancelableDialog.findViewById(R.id.TextView01)).setText(getResources().getString(R.string.other_message));
-        Button button = (Button) cancelableDialog.findViewById(R.id.ButtonGameCat2);
-        Button button2 = (Button) cancelableDialog.findViewById(R.id.ButtonGameCat3);
-        button.setText(getResources().getString(R.string.game1));
-        button2.setText(getResources().getString(R.string.game2));
-        button.setOnClickListener(new View.OnClickListener() {
-            public void onClick(View view) {
-                Intent intent = new Intent("android.intent.action.VIEW");
-//                intent.addFlags(67108864);
-                intent.setData(Uri.parse("https://play.google.com/store/apps/details?id=srsdt.findacat2"));
-                MainActivity.this.startActivity(intent);
-            }
-        });
-        button2.setOnClickListener(new View.OnClickListener() {
-            public void onClick(View view) {
-                Intent intent = new Intent("android.intent.action.VIEW");
-//                intent.addFlags(67108864);
-                intent.setData(Uri.parse("https://play.google.com/store/apps/details?id=srsdt.findacat3"));
-                MainActivity.this.startActivity(intent);
-            }
-        });
-        ((Button) cancelableDialog.findViewById(R.id.ButtonCancel)).setOnClickListener(new View.OnClickListener() {
-            public void onClick(View view) {
-                cancelableDialog.cancel();
-            }
-        });
+        Button button = (Button) cancelableDialog.findViewById(R.id.enjoyButton);
+        View.OnClickListener closeDialogListener = view -> cancelableDialog.cancel();
+
+        button.setOnClickListener(closeDialogListener);
+        ((Button) cancelableDialog.findViewById(R.id.ButtonCancel)).setOnClickListener(closeDialogListener);
+
         cancelableDialog.setCancelable(true);
         GraphicUtils.animateDialog(cancelableDialog);
         cancelableDialog.show();

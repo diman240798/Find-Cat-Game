@@ -15,11 +15,9 @@
     <string name="cheat_help">提示</string>
     <string name="cheat_message">貓是天生的偽裝大師！ 你想暗示10分嗎？ 你有%d</string>
     <string name="cheat_message_again">貓是天生的偽裝大師！ 你想再次看一下提示嗎？</string>
-    <string name="fiandacat2">遊戲的其他部分</string>
+    <string name="fiandacat2">享受猫？</string>
     <string name="fmessage">感謝您選擇我們的應用程序！由於我們的感激之情的信物付給你可以在提示花費100點。如已經提到的，我們的應用將不包含任何在遊戲中購買！積分只能獲得公平競賽。 :)詳情請閱讀節“信息”。</string>
-    <string name="game1">發現貓2</string>
-    <string name="game2">發現貓3</string>
-    <string name="game_link">https://play.google.com/store/apps/details?id=srsdt1.findacat</string>
+    <string name="game1">继续享受</string>
     <string name="game_over">遊戲結束了！</string>
     <string name="game_over_text">"哎呀，似乎貓已經結束了。
 做得好"</string>
@@ -40,7 +38,7 @@
 您可以通過單擊重置按鈕重新設置進度，再次尋找貓！"</string>
     <string name="not_coins">缺少點 :(</string>
     <string name="nul_success">成功！可以再次搜索密封件.</string>
-    <string name="other_message">我們為您提供在我們的遊戲中的其他地方玩:)</string>
+    <string name="other_message">我们爱猫，希望你会喜欢我们的游戏 :)</string>
     <string name="permission_message">请允许游戏访问您的设备的内存！ 没有这个，我们将无法附上成就卡！</string>
     <string name="policy">隐私政策</string>
     <string name="regular_notification">貓等著你!</string>
@@ -54,7 +52,7 @@
     <string name="sure">你確定嗎？</string>
     <string name="timer">你已經找到了貓：</string>
     <string name="tw_error">何かがうまくいかなかった:(</string>
-    <string name="tw_post">我喜歡看貓在遊戲中找到貓的機器人！ #找貓 https://play.google.com/store/apps/details?id=srsdt1.findacat</string>
+    <string name="tw_post">我喜歡看貓在遊戲中找到貓的機器人！ #找貓</string>
     <string name="unlocked">新到貨!</string>
     <string name="vibro_button_off">振動</string>
     <string name="vibro_button_on">振動</string>

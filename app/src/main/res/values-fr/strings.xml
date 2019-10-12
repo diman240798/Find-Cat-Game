@@ -50,11 +50,9 @@
     <string name="common_open_on_phone">Ouvrir sur le téléphone</string>
     <string name="common_signin_button_text">Se connecter</string>
     <string name="common_signin_button_text_long">Se connecter avec Google</string>
-    <string name="fiandacat2">Autres jeux</string>
+    <string name="fiandacat2">Profitez de chats?</string>
     <string name="fmessage">"Merci d'avoir choisi notre application! En signe de notre gratitude vous payer 100 points pouvant être dépensés pour des conseils. Comme déjà mentionné, notre application ne contiendra pas les achats dans le jeu! Vous ne pouvez obtenir des points dans le jeu équitable . :) Lire la suite dans la section Information."</string>
-    <string name="game1">Trouver Cat 2</string>
-    <string name="game2">Trouver Cat 3</string>
-    <string name="game_link">https://play.google.com/store/apps/details?id=srsdt1.findacat</string>
+    <string name="game1">Continuer À Profiter De</string>
     <string name="game_over">Le jeu est terminé!</string>
     <string name="game_over_text">"Oups, il semble que les chats sont finis.
 Bon travail"</string>
@@ -76,7 +74,7 @@ Vous devez effectuer %d clics sur l'écran pour trouver tous les masques de masq
 Vous pouvez réinitialiser la progression en cliquant sur le bouton Réinitialiser et chercher à nouveau les chats!"</string>
     <string name="not_coins">Vous n`avez pas assez de points.:(</string>
     <string name="nul_success">Succès! Vous pouvez rechercher des chats à nouveau.</string>
-    <string name="other_message">Offre pour jouer à nos autres jeux :)</string>
+    <string name="other_message">Nous aimons les chats et espérons que vous apprécierez notre jeu :)</string>
     <string name="permission_message">Autorisez le jeu à accéder à la mémoire de votre appareil! Sans cela, nous ne serons pas en mesure de joindre une carte de réussite!</string>
     <string name="policy">Confidentialité</string>
     <string name="regular_notification">"Les chats t'attendent!"</string>
@@ -99,7 +97,7 @@ Vous pouvez réinitialiser la progression en cliquant sur le bouton Réinitialis
     <string name="sure">Vous êtes assurés?</string>
     <string name="timer">Vous avez trouvé le chat dans:</string>
     <string name="tw_error">Quelque chose sest mal passé :(</string>
-    <string name="tw_post">J`aime chercher les chats le jeu Trouve le chat pour Android! #Trouverlechat https://play.google.com/store/apps/details?id=srsdt1.findacat</string>
+    <string name="tw_post">J`aime chercher les chats le jeu Trouve le chat pour Android! #Trouverlechat</string>
     <string name="unlocked">Une nouvelle réalisation!</string>
     <string name="vibro_button_off">La vibro</string>
     <string name="vibro_button_on">La vibro</string>
