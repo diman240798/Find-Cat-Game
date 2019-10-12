@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<set
-  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
-    <objectAnimator android:interpolator="@android:interpolator/fast_out_slow_in" android:duration="1000" android:valueFrom="0" android:valueTo="20" android:valueType="floatType" android:propertyName="rotation" />
+<set xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <objectAnimator android:interpolator="@android:interpolator/fast_out_slow_in" android:duration="1000" android:valueFrom="0" android:valueTo="20" android:valueType="floatType" android:propertyName="rotation"/>
     <objectAnimator android:interpolator="@android:interpolator/fast_out_slow_in" android:duration="1500" android:startOffset="1000" android:valueFrom="20" android:valueTo="-20" android:valueType="floatType" android:propertyName="rotation" />
     <objectAnimator android:interpolator="@android:interpolator/fast_out_slow_in" android:duration="1000" android:startOffset="2500" android:valueFrom="-20" android:valueTo="0" android:valueType="floatType" android:propertyName="rotation" />
 </set>

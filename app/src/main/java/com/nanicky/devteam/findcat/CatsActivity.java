@@ -335,7 +335,9 @@ public class CatsActivity extends Activity {
         int y = (int) motionEvent.getY();
         if (motionEvent.getAction() == 0) {
             placeMark(x, y);
-            if (x - 35 >= (this.currentImageView.getWidth() * this.catsCoordinates[this.currentLevel][0]) / 1000 || x + 35 <= (this.currentImageView.getWidth() * this.catsCoordinates[this.currentLevel][0]) / 1000 || y - 35 >= (this.currentImageView.getHeight() * this.catsCoordinates[this.currentLevel][1]) / 1000 || y + 35 <= (this.currentImageView.getHeight() * this.catsCoordinates[this.currentLevel][1]) / 1000) {
+            int xCoord = (this.currentImageView.getWidth() * this.catsCoordinates[this.currentLevel][0]) / 1000;
+            int yCoord = (this.currentImageView.getHeight() * this.catsCoordinates[this.currentLevel][1]) / 1000;
+            if (x - 35 >= xCoord || x + 35 <= xCoord || y - 35 >= yCoord || y + 35 <= yCoord) {
                 playSound(3);
                 this.missClicks++;
                 if ((this.missClicks + 1) % 8 == 0) {
