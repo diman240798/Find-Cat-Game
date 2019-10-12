@@ -2,7 +2,7 @@
 <shape android:shape="rectangle"
   xmlns:android="http://schemas.android.com/apk/res/android">
     <corners android:topLeftRadius="10.0dip" android:topRightRadius="10.0dip" android:bottomLeftRadius="10.0dip" android:bottomRightRadius="10.0dip" />
-    <gradient android:startColor="#ff025b7e" android:endColor="#ff0488cf" android:angle="90.0" android:type="linear" />
+    <gradient android:startColor="#ff025b7e" android:endColor="#C9F9AF" android:angle="90.0" android:type="linear" />
     <padding android:left="0.0dip" android:top="0.0dip" android:right="0.0dip" android:bottom="0.0dip" />
     <size android:height="60.0dip" android:width="270.0dip" />
     <stroke android:width="2.0dip" android:color="#ffececec" />

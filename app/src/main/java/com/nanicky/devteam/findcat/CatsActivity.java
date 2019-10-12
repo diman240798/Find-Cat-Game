@@ -328,12 +328,16 @@ public class CatsActivity extends Activity {
         closableCornerDialog.show();
     }
 
+    @Override
     public boolean onTouchEvent(MotionEvent motionEvent) {
+        if (motionEvent.getAction() != MotionEvent.ACTION_UP) {
+            return false;
+        }
         this.clicksCount++;
         saveClicksCount(this.clicksCount);
         int x = (int) motionEvent.getX();
         int y = (int) motionEvent.getY();
-        if (motionEvent.getAction() == 0) {
+        if (motionEvent.getAction() == MotionEvent.ACTION_UP) {
             placeMark(x, y);
             int xCoord = (this.currentImageView.getWidth() * this.catsCoordinates[this.currentLevel][0]) / 1000;
             int yCoord = (this.currentImageView.getHeight() * this.catsCoordinates[this.currentLevel][1]) / 1000;
@@ -368,6 +372,7 @@ public class CatsActivity extends Activity {
                     playSound(2);
                 }
             }
+            return true;
         }
         return super.onTouchEvent(motionEvent);
     }

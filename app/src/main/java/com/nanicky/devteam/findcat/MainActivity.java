@@ -32,19 +32,15 @@ import com.nanicky.devteam.findcat.services.CoinsService;
 import com.nanicky.devteam.findcat.services.SettingsService;
 import com.nanicky.devteam.findcat.utils.GraphicUtils;
 
+import java.util.Locale;
+
 import es.dmoral.toasty.Toasty;
 import srsdt1.findacat.R;
-
-import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
     public static final int SHARE_PERMISSION_CODE = 100;
     private static final String TAG = "MainActivity";
-    /* access modifiers changed from: private */
     private SettingsService settingsService = SettingsService.getInstance();
-    /* access modifiers changed from: private */
-    public boolean startClicked = false;
-    /* access modifiers changed from: private */
 
     /* access modifiers changed from: protected */
     public void onCreate(Bundle bundle) {
@@ -68,18 +64,8 @@ public class MainActivity extends AppCompatActivity {
         });
 
         Button button = (Button) findViewById(R.id.startGameBtn);
-        button.setOnClickListener(new View.OnClickListener() {
-            public void onClick(View view) {
-                if (!MainActivity.this.startClicked) {
-                    boolean unused = MainActivity.this.startClicked = true;
-                    new Handler().postDelayed(new Runnable() {
-                        public void run() {
-                            MainActivity.this.startGame();
-
-                        }
-                    }, 400);
-                }
-            }
+        button.setOnClickListener(view -> {
+            MainActivity.this.startGame();
         });
         final AnimatedVectorDrawableCompat create = AnimatedVectorDrawableCompat.create(this, R.drawable.play_animated);
         if (create != null) {
