@@ -144,7 +144,7 @@ public class SettingsActivity extends AppCompatActivity {
                 SettingsService.getInstance().resetProgress();
                 SettingsActivity settingsActivity = SettingsActivity.this;
                 Toasty.custom((Context) settingsActivity, (CharSequence) settingsActivity.getString(R.string.nul_success), (int) R.drawable.toast_common_success,
-                        Color.parseColor("#FFFFFF"), ContextCompat.getColor(SettingsActivity.this, R.color.colorPrimary), true, true).show();
+                        Color.parseColor("#C9F9AF"), ContextCompat.getColor(SettingsActivity.this, R.color.colorPrimary), true, true).show();
                 cancelableDialog.cancel();
             }
         });

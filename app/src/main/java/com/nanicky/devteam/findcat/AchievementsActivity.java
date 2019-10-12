@@ -65,7 +65,7 @@ public class AchievementsActivity extends Activity {
                 }
                                 AchievementsActivity achievementsActivity = AchievementsActivity.this;
                 Toasty.custom((Context) achievementsActivity, (CharSequence) achievementsActivity.getString(R.string.locked),
-                        (int) R.drawable.toast_alert, Color.parseColor("#FFFFFF"), ContextCompat.getColor(AchievementsActivity.this, R.color.colorPrimaryDark), true, true).show();
+                        (int) R.drawable.toast_alert, Color.parseColor("#C9F9AF"), ContextCompat.getColor(AchievementsActivity.this, R.color.colorPrimaryDark), true, true).show();
             }
         }));
             }

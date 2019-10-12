@@ -31,10 +31,8 @@ public class GameOverActivity extends AppCompatActivity {
     public static final int SHARE_PERMISSION_CODE = 100;
     private static final String TAG = "GameOverActivity";
     private AchievementsService achievementsService = AchievementsService.getInstance();
-    /* access modifiers changed from: private */
     public volatile Timer catClickTimer;
     private ProgressService progressService = ProgressService.getInstance();
-    /* access modifiers changed from: private */
     public SettingsService settingsService = SettingsService.getInstance();
 
     /* access modifiers changed from: protected */
@@ -90,7 +88,7 @@ public class GameOverActivity extends AppCompatActivity {
             shareGame();
             return;
         }
-        Toasty.custom((Context) this, (CharSequence) getString(R.string.tw_error), (int) R.drawable.toast_alert, Color.parseColor("#FFFFFF"),
+        Toasty.custom((Context) this, (CharSequence) getString(R.string.tw_error), (int) R.drawable.toast_alert, Color.parseColor("#C9F9AF"),
                 ContextCompat.getColor(this, R.color.colorPrimaryDark), true, true).show();
     }
 

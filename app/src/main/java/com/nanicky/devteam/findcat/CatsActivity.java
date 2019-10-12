@@ -262,7 +262,7 @@ public class CatsActivity extends Activity {
                 sb = sb3.toString();
             }
             Toasty.custom((Context) this, (CharSequence) sb, (int) R.drawable.toast_success,
-                    Color.parseColor("#FFFFFF"), ContextCompat.getColor(this, R.color.colorPrimary), true, true).show();
+                    Color.parseColor("#C9F9AF"), ContextCompat.getColor(this, R.color.colorPrimary), true, true).show();
             if (this.achievementsService.checkAndShowFastSlowAchievements(this, this.timerCounter)) {
                 playSound(2);
             }
@@ -295,7 +295,7 @@ public class CatsActivity extends Activity {
                     catsActivity.showHint(catsActivity.hints[CatsActivity.this.currentLevel]);
                 } else if (CatsActivity.this.coinsService.isOperationAvailable(10)) {
                     CatsActivity catsActivity2 = CatsActivity.this;
-                    Toasty.custom((Context) catsActivity2, (CharSequence) catsActivity2.getResources().getString(R.string.lost_points), (int) R.drawable.toast_hint, Color.parseColor("#FFFFFF"),
+                    Toasty.custom((Context) catsActivity2, (CharSequence) catsActivity2.getResources().getString(R.string.lost_points), (int) R.drawable.toast_hint, Color.parseColor("#C9F9AF"),
                             ContextCompat.getColor(CatsActivity.this, R.color.colorPrimary), true, true).show();
                     CatsActivity catsActivity3 = CatsActivity.this;
                     catsActivity3.showHint(catsActivity3.hints[CatsActivity.this.currentLevel]);
@@ -306,7 +306,7 @@ public class CatsActivity extends Activity {
                     hashMap.put("level", Integer.valueOf(CatsActivity.this.currentLevel));
                                     } else {
                     CatsActivity catsActivity4 = CatsActivity.this;
-                    Toasty.custom((Context) catsActivity4, (CharSequence) catsActivity4.getString(R.string.not_coins), (int) R.drawable.toast_alert, Color.parseColor("#FFFFFF"),
+                    Toasty.custom((Context) catsActivity4, (CharSequence) catsActivity4.getString(R.string.not_coins), (int) R.drawable.toast_alert, Color.parseColor("#C9F9AF"),
                             ContextCompat.getColor(CatsActivity.this, R.color.colorPrimary), true, true).show();
                 }
                 dialog.cancel();

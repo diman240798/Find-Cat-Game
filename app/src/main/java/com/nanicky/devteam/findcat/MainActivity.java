@@ -129,7 +129,7 @@ public class MainActivity extends AppCompatActivity {
             shareGame();
             return;
         }
-        Toasty.custom((Context) this, (CharSequence) getString(R.string.tw_error), (int) R.drawable.toast_alert, Color.parseColor("#FFFFFF"),
+        Toasty.custom((Context) this, (CharSequence) getString(R.string.tw_error), (int) R.drawable.toast_alert, Color.parseColor("#C9F9AF"),
                 ContextCompat.getColor(this, R.color.colorPrimaryDark), true, true).show();
     }
 
